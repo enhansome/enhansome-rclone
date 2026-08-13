@@ -1,0 +1,720 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Clients & GUIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rclone Browser",
+          "description": "Cross-platform Qt GUI for browsing, transferring, mounting, and streaming files. Fork of original by mmozeiko.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-11T20:21:18Z",
+            "owner": "kapitainsky",
+            "repo": "RcloneBrowser",
+            "stars": 2941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rclone UI",
+          "description": "Modern, battle-tested, cross-platform desktop GUI built with Rust. Most recommended & actively maintained solution for both newbies and veterans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T13:26:18Z",
+            "owner": "rclone-ui",
+            "repo": "rclone-ui",
+            "stars": 2185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rclone Manager",
+          "description": "Hobby cross-platform GUI built with Angular.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:17:32Z",
+            "owner": "Zarestia-Dev",
+            "repo": "rclone-manager",
+            "stars": 1042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REM",
+          "description": "Kawaii rclone client. Can be seen as an open source version of RcloneView.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-22T05:35:07Z",
+            "owner": "liriliri",
+            "repo": "rem",
+            "stars": 615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RcloneTray",
+          "description": "Minimal Electron-based system tray application for mounting and managing remotes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-11T16:01:55Z",
+            "owner": "dimitrov-adrian",
+            "repo": "RcloneTray",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RcloneNg",
+          "description": "Angular-based web app GUI with two-pane file manager interface. Packaged for OpenWrt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T21:40:53Z",
+            "owner": "ElonH",
+            "repo": "RcloneNg",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rclone Shuttle",
+          "description": "GTK4-based graphical uploader for rclone. Simple drag-and-drop file transfers written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-27T11:18:24Z",
+            "owner": "pieterdd",
+            "repo": "RcloneShuttle",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rclone Navigator",
+          "description": "Desktop GUI for managing files in cloud storage. Supports Linux and Windows with features for browsing, uploading, downloading, mounting, and serving remotes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-27T05:01:08Z",
+            "owner": "Communist02",
+            "repo": "RcloneNavigator",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Desktop"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WebUI React",
+          "description": "Official web-based GUI bundled with rclone ().",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-11T21:45:19Z",
+            "owner": "rclone",
+            "repo": "rclone-webui-react",
+            "stars": 1561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Motuz",
+          "description": "Web interface designed for large-scale, multi-user data transfers (e.g., scientists moving TBs of data). Provides web UI and REST API on top of rclone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-13T22:12:13Z",
+            "owner": "FredHutch",
+            "repo": "motuz",
+            "stars": 115
+          }
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Round Sync",
+          "description": "Fork of RCX with Material 3 Design, task management, and enhanced features. Available on F-Droid and IzzyOnDroid. Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-11-16T12:31:49Z",
+            "owner": "newhinton",
+            "repo": "Round-Sync",
+            "stars": 2306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RCX (Rclone for Android)",
+          "description": "Full-featured Android file manager powered by rclone. Browse, upload, download, stream, and manage files on cloud remotes. Available on F-Droid and Google Play.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-11-26T21:55:00Z",
+            "owner": "x0b",
+            "repo": "rcx",
+            "stars": 2026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rclone Explorer",
+          "description": "Original Android GUI for rclone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-05-03T15:27:40Z",
+            "owner": "patrykcoding",
+            "repo": "rcloneExplorer",
+            "stars": 360
+          }
+        }
+      ],
+      "title": "Mobile"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sync and Backup Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rclonesync V2",
+          "description": "Python script for two-way sync with safety checks and max deletion limits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-07T04:16:02Z",
+            "owner": "cjnaz",
+            "repo": "rclonesync-V2",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "syncrclone",
+          "description": "Python-based bi-directional sync tool built specifically for rclone. Supports conflict resolution, move/rename tracking, and backups of changed files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-17T17:23:52Z",
+            "owner": "Jwink3101",
+            "repo": "syncrclone",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyFiSync",
+          "description": "Python-based 2-way sync utility that can use rclone for transfers. Tracks moves/deletions and backs up on conflict.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-17T13:46:26Z",
+            "owner": "Jwink3101",
+            "repo": "PyFiSync",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rsinc",
+          "description": "Tiny hackable two-way cloud sync client for Linux. Tracks file moves using hashes and supports parallel transfers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-11T16:36:41Z",
+            "owner": "ConorWilliams",
+            "repo": "rsinc",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UpBack",
+          "description": "Two-way sync utility assuming star topology (one cloud remote syncing with multiple clients).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-19T12:14:04Z",
+            "owner": "DavideRossi",
+            "repo": "upback",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Two-Way Sync"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rclone_jobber",
+          "description": "Bash script for backup rotation with logging, archival of old files, retries, and desktop notifications on errors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-08-24T10:52:43Z",
+            "owner": "wolfv6",
+            "repo": "rclone_jobber",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyClone",
+          "description": "Python automation engine for rclone backup scenarios. Define backup strategy in config file with Telegram notifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-08T07:06:13Z",
+            "owner": "PyCloneOrg",
+            "repo": "PyClone",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rclone BiSync Manager",
+          "description": "GUI + daemon for continuous two-way sync using rclone's bisync. Provides system tray monitor with real-time status.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T22:39:43Z",
+            "owner": "Gunther-Schulz",
+            "repo": "rclone-bisync-manager",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dfb (Dated File Backup)",
+          "description": "Wrapper implementing reverse-incremental backups with rclone. Preserves older versions by appending dates to filenames.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-21T15:51:12Z",
+            "owner": "Jwink3101",
+            "repo": "dfb",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RCloneBackup",
+          "description": "Cross-platform script for reverse incremental backups with Windows VSS support and email reports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-03T16:51:40Z",
+            "owner": "polar147",
+            "repo": "RCloneBackup",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Backup Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "restic",
+          "description": "Secure deduplicating backup program. Can use rclone as backend to access many cloud storage services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T20:25:16Z",
+            "owner": "restic",
+            "repo": "restic",
+            "stars": 35483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kopia",
+          "description": "Open-source backup tool for encrypted, deduplicated backups. Supports rclone as transport for additional cloud providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T06:10:45Z",
+            "owner": "kopia",
+            "repo": "kopia",
+            "stars": 13845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Duplicity Backend",
+          "description": "Plugin allowing Duplicity backup software to use rclone as a storage backend.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-12-05T19:21:07Z",
+            "owner": "GilGalaad",
+            "repo": "duplicity-rclone",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rcloner",
+          "description": "Ruby gem wrapping Duplicity and rclone for easy app backups with encryption.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2021-02-24T16:41:05Z",
+            "owner": "vifreefly",
+            "repo": "rcloner",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doomsday Machine",
+          "description": "Backup tool using rclone to archive data from various cloud services (IMAP, Drive, etc.) into Docker containers.",
+          "children": []
+        }
+      ],
+      "title": "Backup Software with Rclone Support"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "API Libraries and SDKs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rclone",
+          "description": "JavaScript implementation of rclone cryptography for the browser (filename encryption).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-21T08:50:17Z",
+            "owner": "FWeinb",
+            "repo": "rclone-js",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rclone-sdk",
+          "description": "Typed SDK for browser and Node. Integrates with vanilla fetch, React Query, and SWR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-05T16:43:51Z",
+            "owner": "rclone-ui",
+            "repo": "rclone-sdk",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rclone-api",
+          "description": "JavaScript client for rclone's RC HTTP API. Promise-based functions for all RC endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-30T12:19:47Z",
+            "owner": "rclone",
+            "repo": "rclone-js-api",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rclone.js",
+          "description": "Node.js wrapper exposing rclone functions via JavaScript. Downloads rclone binary on install and provides Promise-based API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-04T20:36:00Z",
+            "owner": "sntran",
+            "repo": "rclone.js",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "JavaScript / TypeScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AutoRclone",
+          "description": "Scripts to automate rclone Google Drive operations using multiple service accounts to bypass quotas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-11T07:12:02Z",
+            "owner": "xyou365",
+            "repo": "AutoRclone",
+            "stars": 1384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rclone4pi",
+          "description": "Easy installer and cron setup for rclone on Raspberry Pi with sample sync scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-06-09T13:42:53Z",
+            "owner": "pageauc",
+            "repo": "rclone4pi",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rhttpserve",
+          "description": "Lightweight HTTP server that serves files from any rclone remote with expiring signed URLs for secure sharing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-03-04T03:21:38Z",
+            "owner": "brandur",
+            "repo": "rhttpserve",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Automation and Scripts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cloud and System Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CSI Driver (Veloxpack)",
+          "description": "Kubernetes CSI driver built on rclone Go library. Mounts 50+ cloud providers in pods with dynamic PV provisioning and secrets management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T07:19:09Z",
+            "owner": "veloxpack",
+            "repo": "csi-driver-rclone",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSI Driver (Wunderio)",
+          "description": "Original Kubernetes CSI storage driver using rclone mount.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-07T08:58:38Z",
+            "owner": "wunderio",
+            "repo": "csi-rclone",
+            "stars": 260
+          }
+        }
+      ],
+      "title": "Kubernetes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gclone (donwa)",
+          "description": "Original gclone mod optimized for Google Drive SA usage. Based on rclone v1.51.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-04-05T11:39:24Z",
+            "owner": "donwa",
+            "repo": "gclone",
+            "stars": 776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rclone_RD",
+          "description": "Fork integrating Real-Debrid API as a backend. Mount and stream cached torrents from Real-Debrid.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-04-04T16:59:20Z",
+            "owner": "itsToggle",
+            "repo": "rclone_RD",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gclone (dogbutcat)",
+          "description": "Actively maintained fork with Google Drive Service Account rotation to bypass API quotas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-05T15:39:45Z",
+            "owner": "dogbutcat",
+            "repo": "gclone",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gclone (l3v11)",
+          "description": "Another gclone fork with auto SA rotation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-09-16T19:36:52Z",
+            "owner": "l3v11",
+            "repo": "gclone",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fclone",
+          "description": "Continuously updated fork providing pre-built binaries and speedy updates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-09-12T22:23:49Z",
+            "owner": "NyaMisty",
+            "repo": "fclone",
+            "stars": 75
+          }
+        }
+      ],
+      "title": "Forks and Alternate Builds"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vim-netranger",
+          "description": "Vim/Neovim plugin providing ranger-like file explorer with rclone cloud storage support.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-09-12T05:38:33Z",
+            "owner": "ipod825",
+            "repo": "vim-netranger",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rclone-openapi",
+          "description": "OpenAPI 3.0 specification for rclone's RC API. Useful for generating clients and documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-05T16:43:00Z",
+            "owner": "rclone",
+            "repo": "rclone-openapi",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rclone-config-builder",
+          "description": "Library to build rclone config files in JSON/YAML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T22:07:22Z",
+            "owner": "Lesmiscore",
+            "repo": "rclone-config-builder",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Utilities and Miscellaneous"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:41.593Z",
+    "original_repository": "awesome-rclone/awesome-rclone",
+    "original_repository_sha": "7bce8ddf1dc8ca823a51784b8f320a9f1d6a784f",
+    "enhanced_repository": "enhansome/enhansome-rclone",
+    "enhanced_repository_description": null,
+    "title": "Awesome Rclone with stars"
+  }
+}
