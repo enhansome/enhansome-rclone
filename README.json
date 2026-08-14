@@ -19,7 +19,7 @@
             "last_commit": "2024-03-11T20:21:18Z",
             "owner": "kapitainsky",
             "repo": "RcloneBrowser",
-            "stars": 2942
+            "stars": 2944
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-09T13:26:18Z",
             "owner": "rclone-ui",
             "repo": "rclone-ui",
-            "stars": 2184
+            "stars": 2190
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T16:17:32Z",
+            "last_commit": "2026-08-13T17:58:00Z",
             "owner": "Zarestia-Dev",
             "repo": "rclone-manager",
-            "stars": 1043
+            "stars": 1044
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2025-12-22T05:35:07Z",
             "owner": "liriliri",
             "repo": "rem",
-            "stars": 615
+            "stars": 616
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2024-06-11T21:45:19Z",
             "owner": "rclone",
             "repo": "rclone-webui-react",
-            "stars": 1561
+            "stars": 1562
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-11-16T12:31:49Z",
             "owner": "newhinton",
             "repo": "Round-Sync",
-            "stars": 2306
+            "stars": 2307
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2023-11-26T21:55:00Z",
             "owner": "x0b",
             "repo": "rcx",
-            "stars": 2026
+            "stars": 2027
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2026-08-01T20:25:16Z",
             "owner": "restic",
             "repo": "restic",
-            "stars": 35489
+            "stars": 35505
           }
         },
         {
@@ -387,10 +387,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T06:10:45Z",
+            "last_commit": "2026-08-14T00:48:33Z",
             "owner": "kopia",
             "repo": "kopia",
-            "stars": 13847
+            "stars": 13857
           }
         },
         {
@@ -564,7 +564,7 @@
             "last_commit": "2026-08-05T07:19:09Z",
             "owner": "veloxpack",
             "repo": "csi-driver-rclone",
-            "stars": 340
+            "stars": 341
           }
         },
         {
@@ -688,7 +688,7 @@
             "last_commit": "2026-06-05T16:43:00Z",
             "owner": "rclone",
             "repo": "rclone-openapi",
-            "stars": 43
+            "stars": 44
           }
         },
         {
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:51:29.418Z",
+    "last_updated": "2026-08-14T09:48:45.367Z",
     "original_repository": "awesome-rclone/awesome-rclone",
     "original_repository_sha": "7bce8ddf1dc8ca823a51784b8f320a9f1d6a784f",
     "enhanced_repository": "enhansome/enhansome-rclone",
