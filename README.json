@@ -19,7 +19,7 @@
             "last_commit": "2024-03-11T20:21:18Z",
             "owner": "kapitainsky",
             "repo": "RcloneBrowser",
-            "stars": 2944
+            "stars": 2945
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-09T13:26:18Z",
+            "last_commit": "2026-08-15T21:11:08Z",
             "owner": "rclone-ui",
             "repo": "rclone-ui",
-            "stars": 2189
+            "stars": 2190
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-14T15:46:35Z",
             "owner": "Zarestia-Dev",
             "repo": "rclone-manager",
-            "stars": 1050
+            "stars": 1051
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-11-16T12:31:49Z",
             "owner": "newhinton",
             "repo": "Round-Sync",
-            "stars": 2310
+            "stars": 2311
           }
         },
         {
@@ -353,7 +353,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2020-02-03T16:51:40Z",
+            "last_commit": "2026-08-15T17:53:59Z",
             "owner": "polar147",
             "repo": "RCloneBackup",
             "stars": 11
@@ -376,7 +376,7 @@
             "last_commit": "2026-08-01T20:25:16Z",
             "owner": "restic",
             "repo": "restic",
-            "stars": 35528
+            "stars": 35540
           }
         },
         {
@@ -387,10 +387,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T00:48:33Z",
+            "last_commit": "2026-08-15T21:09:31Z",
             "owner": "kopia",
             "repo": "kopia",
-            "stars": 13871
+            "stars": 13874
           }
         },
         {
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T09:13:32.226Z",
+    "last_updated": "2026-08-16T09:14:22.182Z",
     "original_repository": "awesome-rclone/awesome-rclone",
     "original_repository_sha": "7bce8ddf1dc8ca823a51784b8f320a9f1d6a784f",
     "enhanced_repository": "enhansome/enhansome-rclone",
