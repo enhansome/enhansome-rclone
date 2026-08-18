@@ -33,7 +33,7 @@
             "last_commit": "2026-08-15T21:11:08Z",
             "owner": "rclone-ui",
             "repo": "rclone-ui",
-            "stars": 2194
+            "stars": 2196
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2024-06-11T21:45:19Z",
             "owner": "rclone",
             "repo": "rclone-webui-react",
-            "stars": 1563
+            "stars": 1562
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-11-16T12:31:49Z",
             "owner": "newhinton",
             "repo": "Round-Sync",
-            "stars": 2312
+            "stars": 2313
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2023-11-26T21:55:00Z",
             "owner": "x0b",
             "repo": "rcx",
-            "stars": 2029
+            "stars": 2030
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2026-08-01T20:25:16Z",
             "owner": "restic",
             "repo": "restic",
-            "stars": 35561
+            "stars": 35581
           }
         },
         {
@@ -387,10 +387,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T21:09:31Z",
+            "last_commit": "2026-08-18T03:44:20Z",
             "owner": "kopia",
             "repo": "kopia",
-            "stars": 13882
+            "stars": 13893
           }
         },
         {
@@ -564,7 +564,7 @@
             "last_commit": "2026-08-17T01:06:06Z",
             "owner": "veloxpack",
             "repo": "csi-driver-rclone",
-            "stars": 341
+            "stars": 343
           }
         },
         {
@@ -575,7 +575,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-07-07T08:58:38Z",
+            "last_commit": "2026-08-18T07:42:34Z",
             "owner": "wunderio",
             "repo": "csi-rclone",
             "stars": 260
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:27:02.592Z",
+    "last_updated": "2026-08-18T09:19:21.092Z",
     "original_repository": "awesome-rclone/awesome-rclone",
     "original_repository_sha": "7bce8ddf1dc8ca823a51784b8f320a9f1d6a784f",
     "enhanced_repository": "enhansome/enhansome-rclone",
