@@ -181,7 +181,7 @@
                 "last_commit": "2025-11-16T12:31:49Z",
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2315
+                "stars": 2316
               }
             },
             {
@@ -403,7 +403,7 @@
                 "last_commit": "2026-08-01T20:25:16Z",
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 35587
+                "stars": 35590
               }
             },
             {
@@ -418,7 +418,7 @@
                 "last_commit": "2026-08-18T03:44:20Z",
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 13900
+                "stars": 13901
               }
             },
             {
@@ -760,8 +760,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:20:12.705Z",
+    "last_updated": "2026-08-19T12:51:48.344Z",
     "original_repository": "awesome-rclone/awesome-rclone",
+    "original_repository_id": 1111422813,
     "original_repository_sha": "7bce8ddf1dc8ca823a51784b8f320a9f1d6a784f",
     "enhanced_repository": "enhansome/enhansome-rclone",
     "enhanced_repository_description": null,
