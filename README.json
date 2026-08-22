@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 973502326,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T16:46:02Z",
+                "last_commit": "2026-08-22T06:18:04Z",
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1055
+                "stars": 1057
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2025-11-16T12:31:49Z",
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2318
+                "stars": 2321
               }
             },
             {
@@ -403,7 +403,7 @@
                 "last_commit": "2026-08-01T20:25:16Z",
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 35632
+                "stars": 35641
               }
             },
             {
@@ -415,10 +415,10 @@
                 "archived": false,
                 "id": 48299818,
                 "language": "Go",
-                "last_commit": "2026-08-18T03:44:20Z",
+                "last_commit": "2026-08-21T21:46:03Z",
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 13926
+                "stars": 13934
               }
             },
             {
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:22:57.198Z",
+    "last_updated": "2026-08-22T09:15:00.697Z",
     "original_repository": "awesome-rclone/awesome-rclone",
     "original_repository_id": 1111422813,
     "original_repository_sha": "7bce8ddf1dc8ca823a51784b8f320a9f1d6a784f",
