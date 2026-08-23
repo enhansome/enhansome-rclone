@@ -17,7 +17,7 @@
                 "last_commit": "2024-03-11T20:21:18Z",
                 "owner": "kapitainsky",
                 "repo": "RcloneBrowser",
-                "stars": 2946
+                "stars": 2947
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-20T21:36:17Z",
                 "owner": "rclone-ui",
                 "repo": "rclone-ui",
-                "stars": 2201
+                "stars": 2203
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 973502326,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T06:18:04Z",
+                "last_commit": "2026-08-22T18:29:26Z",
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1057
+                "stars": 1058
               }
             },
             {
@@ -403,7 +403,7 @@
                 "last_commit": "2026-08-01T20:25:16Z",
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 35641
+                "stars": 35666
               }
             },
             {
@@ -418,7 +418,7 @@
                 "last_commit": "2026-08-21T21:46:03Z",
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 13934
+                "stars": 13943
               }
             },
             {
@@ -600,7 +600,7 @@
                 "last_commit": "2026-08-17T01:06:06Z",
                 "owner": "veloxpack",
                 "repo": "csi-driver-rclone",
-                "stars": 343
+                "stars": 346
               }
             },
             {
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:15:00.697Z",
+    "last_updated": "2026-08-23T09:15:23.097Z",
     "original_repository": "awesome-rclone/awesome-rclone",
     "original_repository_id": 1111422813,
     "original_repository_sha": "7bce8ddf1dc8ca823a51784b8f320a9f1d6a784f",
