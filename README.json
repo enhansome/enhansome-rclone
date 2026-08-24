@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 973502326,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T07:10:35Z",
+                "last_commit": "2026-08-24T09:42:27Z",
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1060
+                "stars": 1061
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2025-11-16T12:31:49Z",
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2323
+                "stars": 2324
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2020-08-24T10:52:43Z",
                 "owner": "wolfv6",
                 "repo": "rclone_jobber",
-                "stars": 274
+                "stars": 273
               }
             },
             {
@@ -403,7 +403,7 @@
                 "last_commit": "2026-08-01T20:25:16Z",
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 35691
+                "stars": 35696
               }
             },
             {
@@ -418,7 +418,7 @@
                 "last_commit": "2026-08-23T12:23:09Z",
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 13951
+                "stars": 13953
               }
             },
             {
@@ -528,6 +528,50 @@
           "description": null,
           "node_type": "group",
           "title": "JavaScript / TypeScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Flyclone",
+              "description": "Object-oriented PHP library wrapping rclone operations. Supports many backends with progress tracking and transfer stats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1153140797,
+                "language": "PHP",
+                "last_commit": "2026-07-09T03:24:15Z",
+                "owner": "verseles",
+                "repo": "flyclone",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rclone-sdk",
+              "description": "Rust crate providing full client to rclone's RC REST API. Based on the OpenAPI spec. Used internally by Rclone UI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1111419216,
+                "language": "Rust",
+                "last_commit": "2026-08-19T21:22:32Z",
+                "owner": "rclone-ui",
+                "repo": "rclone-sdk",
+                "stars": 69
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
         }
       ],
       "title": "API Libraries and SDKs"
@@ -622,6 +666,50 @@
           "description": null,
           "node_type": "group",
           "title": "Kubernetes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Assistant Rclone Backup",
+              "description": "Home Assistant add-on that uses rclone to automatically sync backups to remote cloud storage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 319639593,
+                "language": "Go",
+                "last_commit": "2026-07-12T17:45:41Z",
+                "owner": "jcwillox",
+                "repo": "hassio-rclone-backup",
+                "stars": 201
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Home Automation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Action for rclone",
+              "description": "GitHub Action that installs and runs rclone within workflows for syncing artifacts to cloud storage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197442424,
+                "language": "Dockerfile",
+                "last_commit": "2019-08-29T15:21:41Z",
+                "owner": "wei",
+                "repo": "rclone",
+                "stars": 73
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CI/CD"
         }
       ],
       "title": "Cloud and System Integrations"
@@ -760,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:33:30.741Z",
+    "last_updated": "2026-08-24T14:41:52.503Z",
     "original_repository": "awesome-rclone/awesome-rclone",
     "original_repository_id": 1111422813,
     "original_repository_sha": "7bce8ddf1dc8ca823a51784b8f320a9f1d6a784f",
