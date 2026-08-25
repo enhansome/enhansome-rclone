@@ -17,7 +17,7 @@
                 "last_commit": "2024-03-11T20:21:18Z",
                 "owner": "kapitainsky",
                 "repo": "RcloneBrowser",
-                "stars": 2947
+                "stars": 2949
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-20T21:36:17Z",
                 "owner": "rclone-ui",
                 "repo": "rclone-ui",
-                "stars": 2206
+                "stars": 2209
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 973502326,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T09:42:27Z",
+                "last_commit": "2026-08-25T05:49:42Z",
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
                 "stars": 1061
@@ -196,7 +196,7 @@
                 "last_commit": "2023-11-26T21:55:00Z",
                 "owner": "x0b",
                 "repo": "rcx",
-                "stars": 2031
+                "stars": 2032
               }
             },
             {
@@ -403,7 +403,7 @@
                 "last_commit": "2026-08-01T20:25:16Z",
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 35696
+                "stars": 35705
               }
             },
             {
@@ -415,10 +415,10 @@
                 "archived": false,
                 "id": 48299818,
                 "language": "Go",
-                "last_commit": "2026-08-23T12:23:09Z",
+                "last_commit": "2026-08-25T00:36:24Z",
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 13953
+                "stars": 13961
               }
             },
             {
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:41:52.503Z",
+    "last_updated": "2026-08-25T06:33:17.743Z",
     "original_repository": "awesome-rclone/awesome-rclone",
     "original_repository_id": 1111422813,
     "original_repository_sha": "7bce8ddf1dc8ca823a51784b8f320a9f1d6a784f",
