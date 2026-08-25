@@ -196,7 +196,7 @@
                 "last_commit": "2023-11-26T21:55:00Z",
                 "owner": "x0b",
                 "repo": "rcx",
-                "stars": 2032
+                "stars": 2033
               }
             },
             {
@@ -403,7 +403,7 @@
                 "last_commit": "2026-08-01T20:25:16Z",
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 35705
+                "stars": 35708
               }
             },
             {
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:33:17.743Z",
+    "last_updated": "2026-08-25T09:22:32.697Z",
     "original_repository": "awesome-rclone/awesome-rclone",
     "original_repository_id": 1111422813,
     "original_repository_sha": "7bce8ddf1dc8ca823a51784b8f320a9f1d6a784f",
