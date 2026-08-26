@@ -17,7 +17,7 @@
                 "last_commit": "2024-03-11T20:21:18Z",
                 "owner": "kapitainsky",
                 "repo": "RcloneBrowser",
-                "stars": 2949
+                "stars": 2950
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 973502326,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:49:42Z",
+                "last_commit": "2026-08-26T07:16:00Z",
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
                 "stars": 1061
@@ -181,7 +181,7 @@
                 "last_commit": "2025-11-16T12:31:49Z",
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2324
+                "stars": 2323
               }
             },
             {
@@ -196,7 +196,7 @@
                 "last_commit": "2023-11-26T21:55:00Z",
                 "owner": "x0b",
                 "repo": "rcx",
-                "stars": 2033
+                "stars": 2035
               }
             },
             {
@@ -403,7 +403,7 @@
                 "last_commit": "2026-08-01T20:25:16Z",
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 35708
+                "stars": 35731
               }
             },
             {
@@ -418,7 +418,7 @@
                 "last_commit": "2026-08-25T00:36:24Z",
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 13961
+                "stars": 13966
               }
             },
             {
@@ -591,7 +591,7 @@
             "last_commit": "2022-12-11T07:12:02Z",
             "owner": "xyou365",
             "repo": "AutoRclone",
-            "stars": 1381
+            "stars": 1382
           }
         },
         {
@@ -659,7 +659,7 @@
                 "last_commit": "2026-08-18T07:42:34Z",
                 "owner": "wunderio",
                 "repo": "csi-rclone",
-                "stars": 260
+                "stars": 261
               }
             }
           ],
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:22:32.697Z",
+    "last_updated": "2026-08-26T09:28:03.070Z",
     "original_repository": "awesome-rclone/awesome-rclone",
     "original_repository_id": 1111422813,
     "original_repository_sha": "7bce8ddf1dc8ca823a51784b8f320a9f1d6a784f",
