@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-27T01:42:32Z",
                 "owner": "rclone-ui",
                 "repo": "rclone-ui",
-                "stars": 2213
+                "stars": 2216
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2025-11-16T12:31:49Z",
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2326
+                "stars": 2327
               }
             },
             {
@@ -211,7 +211,7 @@
                 "last_commit": "2020-05-03T15:27:40Z",
                 "owner": "patrykcoding",
                 "repo": "rcloneExplorer",
-                "stars": 359
+                "stars": 360
               }
             }
           ],
@@ -418,7 +418,7 @@
                 "last_commit": "2026-08-25T00:36:24Z",
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 13971
+                "stars": 13973
               }
             },
             {
@@ -837,7 +837,7 @@
             "archived": false,
             "id": 542034630,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T18:50:37Z",
+            "last_commit": "2026-08-27T13:46:31Z",
             "owner": "Lesmiscore",
             "repo": "rclone-config-builder",
             "stars": 1
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:01.387Z",
+    "last_updated": "2026-08-27T19:17:21.662Z",
     "original_repository_info": {
       "archived": false,
       "id": 1111422813,
