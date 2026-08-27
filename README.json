@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 920598633,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T21:36:17Z",
+                "last_commit": "2026-08-27T01:42:32Z",
                 "owner": "rclone-ui",
                 "repo": "rclone-ui",
-                "stars": 2209
+                "stars": 2213
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-26T07:16:00Z",
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1061
+                "stars": 1063
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2025-12-22T05:35:07Z",
                 "owner": "liriliri",
                 "repo": "rem",
-                "stars": 616
+                "stars": 617
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2025-11-16T12:31:49Z",
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2323
+                "stars": 2326
               }
             },
             {
@@ -351,7 +351,7 @@
                 "last_commit": "2026-07-27T22:39:43Z",
                 "owner": "Gunther-Schulz",
                 "repo": "rclone-bisync-manager",
-                "stars": 18
+                "stars": 19
               }
             },
             {
@@ -403,7 +403,7 @@
                 "last_commit": "2026-08-01T20:25:16Z",
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 35731
+                "stars": 35752
               }
             },
             {
@@ -418,7 +418,7 @@
                 "last_commit": "2026-08-25T00:36:24Z",
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 13966
+                "stars": 13971
               }
             },
             {
@@ -837,7 +837,7 @@
             "archived": false,
             "id": 542034630,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T22:11:37Z",
+            "last_commit": "2026-08-26T18:50:37Z",
             "owner": "Lesmiscore",
             "repo": "rclone-config-builder",
             "stars": 1
@@ -848,9 +848,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:28:03.070Z",
-    "original_repository": "awesome-rclone/awesome-rclone",
-    "original_repository_id": 1111422813,
+    "last_updated": "2026-08-27T11:59:01.387Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1111422813,
+      "language": "HTML",
+      "last_commit": "2026-03-10T11:26:04Z",
+      "owner": "awesome-rclone",
+      "repo": "awesome-rclone",
+      "stars": 85
+    },
     "original_repository_sha": "7bce8ddf1dc8ca823a51784b8f320a9f1d6a784f",
     "enhanced_repository": "enhansome/enhansome-rclone",
     "enhanced_repository_description": null,
