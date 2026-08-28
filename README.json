@@ -18,7 +18,8 @@
                 "owner": "kapitainsky",
                 "repo": "RcloneBrowser",
                 "stars": 2950
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-27T01:42:32Z",
                 "owner": "rclone-ui",
                 "repo": "rclone-ui",
-                "stars": 2216
-              }
+                "stars": 2217
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-26T07:16:00Z",
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1063
-              }
+                "stars": 1061
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "liriliri",
                 "repo": "rem",
                 "stars": 617
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -77,8 +81,9 @@
                 "last_commit": "2024-05-11T16:01:55Z",
                 "owner": "dimitrov-adrian",
                 "repo": "RcloneTray",
-                "stars": 289
-              }
+                "stars": 288
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "ElonH",
                 "repo": "RcloneNg",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "pieterdd",
                 "repo": "RcloneShuttle",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "Communist02",
                 "repo": "RcloneNavigator",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             }
           ],
           "description": null,
@@ -144,8 +152,9 @@
                 "last_commit": "2026-08-18T13:22:42Z",
                 "owner": "rclone",
                 "repo": "rclone-webui-react",
-                "stars": 1562
-              }
+                "stars": 1561
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "FredHutch",
                 "repo": "motuz",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             }
           ],
           "description": null,
@@ -181,8 +191,9 @@
                 "last_commit": "2025-11-16T12:31:49Z",
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2327
-              }
+                "stars": 2330
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -196,8 +207,9 @@
                 "last_commit": "2023-11-26T21:55:00Z",
                 "owner": "x0b",
                 "repo": "rcx",
-                "stars": 2035
-              }
+                "stars": 2036
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "patrykcoding",
                 "repo": "rcloneExplorer",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             }
           ],
           "description": null,
@@ -240,7 +253,8 @@
                 "owner": "cjnaz",
                 "repo": "rclonesync-V2",
                 "stars": 363
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "Jwink3101",
                 "repo": "syncrclone",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "Jwink3101",
                 "repo": "PyFiSync",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -285,7 +301,8 @@
                 "owner": "ConorWilliams",
                 "repo": "rsinc",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -300,7 +317,8 @@
                 "owner": "DavideRossi",
                 "repo": "upback",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             }
           ],
           "description": null,
@@ -322,7 +340,8 @@
                 "owner": "wolfv6",
                 "repo": "rclone_jobber",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -337,7 +356,8 @@
                 "owner": "PyCloneOrg",
                 "repo": "PyClone",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -352,7 +372,8 @@
                 "owner": "Gunther-Schulz",
                 "repo": "rclone-bisync-manager",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -367,7 +388,8 @@
                 "owner": "Jwink3101",
                 "repo": "dfb",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -382,7 +404,8 @@
                 "owner": "polar147",
                 "repo": "RCloneBackup",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             }
           ],
           "description": null,
@@ -403,8 +426,9 @@
                 "last_commit": "2026-08-01T20:25:16Z",
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 35752
-              }
+                "stars": 35764
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -418,8 +442,9 @@
                 "last_commit": "2026-08-25T00:36:24Z",
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 13973
-              }
+                "stars": 13977
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -434,7 +459,8 @@
                 "owner": "GilGalaad",
                 "repo": "duplicity-rclone",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -449,7 +475,8 @@
                 "owner": "vifreefly",
                 "repo": "rcloner",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             }
           ],
           "description": null,
@@ -477,7 +504,8 @@
                 "owner": "FWeinb",
                 "repo": "rclone-js",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -492,7 +520,8 @@
                 "owner": "rclone-ui",
                 "repo": "rclone-sdk",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -507,7 +536,8 @@
                 "owner": "rclone",
                 "repo": "rclone-js-api",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -522,7 +552,8 @@
                 "owner": "sntran",
                 "repo": "rclone.js",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             }
           ],
           "description": null,
@@ -544,7 +575,8 @@
                 "owner": "verseles",
                 "repo": "flyclone",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             }
           ],
           "description": null,
@@ -566,7 +598,8 @@
                 "owner": "rclone-ui",
                 "repo": "rclone-sdk",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             }
           ],
           "description": null,
@@ -592,7 +625,8 @@
             "owner": "xyou365",
             "repo": "AutoRclone",
             "stars": 1382
-          }
+          },
+          "first_seen": "2026-08-28T20:26:49.102Z"
         },
         {
           "node_type": "item",
@@ -607,7 +641,8 @@
             "owner": "pageauc",
             "repo": "rclone4pi",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T20:26:49.102Z"
         },
         {
           "node_type": "item",
@@ -622,7 +657,8 @@
             "owner": "brandur",
             "repo": "rhttpserve",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T20:26:49.102Z"
         }
       ],
       "title": "Automation and Scripts"
@@ -645,7 +681,8 @@
                 "owner": "veloxpack",
                 "repo": "csi-driver-rclone",
                 "stars": 346
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             },
             {
               "node_type": "item",
@@ -660,7 +697,8 @@
                 "owner": "wunderio",
                 "repo": "csi-rclone",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             }
           ],
           "description": null,
@@ -682,7 +720,8 @@
                 "owner": "jcwillox",
                 "repo": "hassio-rclone-backup",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             }
           ],
           "description": null,
@@ -704,7 +743,8 @@
                 "owner": "wei",
                 "repo": "rclone",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T20:26:49.102Z"
             }
           ],
           "description": null,
@@ -730,7 +770,8 @@
             "owner": "donwa",
             "repo": "gclone",
             "stars": 774
-          }
+          },
+          "first_seen": "2026-08-28T20:26:49.102Z"
         },
         {
           "node_type": "item",
@@ -745,7 +786,8 @@
             "owner": "itsToggle",
             "repo": "rclone_RD",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T20:26:49.102Z"
         },
         {
           "node_type": "item",
@@ -760,7 +802,8 @@
             "owner": "dogbutcat",
             "repo": "gclone",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-28T20:26:49.102Z"
         },
         {
           "node_type": "item",
@@ -775,7 +818,8 @@
             "owner": "l3v11",
             "repo": "gclone",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T20:26:49.102Z"
         },
         {
           "node_type": "item",
@@ -790,7 +834,8 @@
             "owner": "NyaMisty",
             "repo": "fclone",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T20:26:49.102Z"
         }
       ],
       "title": "Forks and Alternate Builds"
@@ -811,7 +856,8 @@
             "owner": "ipod825",
             "repo": "vim-netranger",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T20:26:49.102Z"
         },
         {
           "node_type": "item",
@@ -826,7 +872,8 @@
             "owner": "rclone",
             "repo": "rclone-openapi",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T20:26:49.102Z"
         },
         {
           "node_type": "item",
@@ -841,14 +888,15 @@
             "owner": "Lesmiscore",
             "repo": "rclone-config-builder",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:49.102Z"
         }
       ],
       "title": "Utilities and Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:17:21.662Z",
+    "last_updated": "2026-08-28T20:26:49.102Z",
     "original_repository_info": {
       "archived": false,
       "id": 1111422813,
