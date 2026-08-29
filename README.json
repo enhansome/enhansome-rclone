@@ -12,12 +12,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.",
+                "homepage": "https://github.com/kapitainsky/RcloneBrowser",
                 "id": 203635486,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-03-11T20:21:18Z",
+                "open_issues": 138,
                 "owner": "kapitainsky",
                 "repo": "RcloneBrowser",
-                "stars": 2950
+                "stars": 2949,
+                "topics": [
+                  "rclone",
+                  "rclone-browser"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -28,12 +36,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The cross-platform GUI for rclone & S3.",
+                "homepage": "https://rcloneui.com",
                 "id": 920598633,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T01:42:32Z",
+                "open_issues": 9,
                 "owner": "rclone-ui",
                 "repo": "rclone-ui",
-                "stars": 2217
+                "stars": 2219,
+                "topics": [
+                  "backblaze-b2",
+                  "cyberduck",
+                  "dropbox",
+                  "ftp",
+                  "fuse",
+                  "fuse-filesystem",
+                  "google-cloud-storage",
+                  "google-drive",
+                  "gui-frontend",
+                  "hero-ui",
+                  "heroui",
+                  "nextui",
+                  "rclone",
+                  "rclone-gui",
+                  "rsync",
+                  "s3",
+                  "sftp",
+                  "tauri",
+                  "tray",
+                  "tray-menu"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -44,12 +78,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RClone Manager is a cross-platform GUI application designed to help users manage Rclone remotes efficiently.",
+                "homepage": "https://hakanismail.info/zarestia/rclone-manager/",
                 "id": 973502326,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T07:16:00Z",
+                "open_issues": 24,
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1061
+                "stars": 1061,
+                "topics": [
+                  "angular",
+                  "angular-material",
+                  "docker-image",
+                  "dropbox",
+                  "fuse",
+                  "google-drive",
+                  "onedrive",
+                  "rclone-gui",
+                  "rclone-webui",
+                  "rust",
+                  "s3",
+                  "tauri",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -60,12 +113,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rclone desktop app",
+                "homepage": "https://rem.liriliri.io",
                 "id": 999182683,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-12-22T05:35:07Z",
+                "open_issues": 13,
                 "owner": "liriliri",
                 "repo": "rem",
-                "stars": 617
+                "stars": 617,
+                "topics": [
+                  "electron",
+                  "electron-app",
+                  "rclone",
+                  "rclone-client",
+                  "rclone-gui"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -76,12 +140,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple cross-platform GUI for Rclone",
+                "homepage": null,
                 "id": 156065634,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-05-11T16:01:55Z",
+                "open_issues": 17,
                 "owner": "dimitrov-adrian",
                 "repo": "RcloneTray",
-                "stars": 288
+                "stars": 288,
+                "topics": [
+                  "rclone",
+                  "rclone-client"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -92,12 +164,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An angular web application for rclone",
+                "homepage": "https://elonh.github.io/RcloneNg",
                 "id": 261481706,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-06T21:40:53Z",
+                "open_issues": 27,
                 "owner": "ElonH",
                 "repo": "RcloneNg",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "angular",
+                  "angular9",
+                  "client-side",
+                  "cloud-storage",
+                  "data-transfer",
+                  "rclone",
+                  "rclone-browser",
+                  "rclone-client",
+                  "rclone-gui",
+                  "transfer-files"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -108,12 +196,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Upload your files to anywhere - GTK4 GUI for Rclone",
+                "homepage": null,
                 "id": 793083822,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-27T11:18:24Z",
+                "open_issues": 3,
                 "owner": "pieterdd",
                 "repo": "RcloneShuttle",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "cloud-storage",
+                  "file-upload",
+                  "rclone"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -124,12 +221,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The program for managing files in cloud storage",
+                "homepage": null,
                 "id": 1022249493,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-27T05:01:08Z",
+                "open_issues": 4,
                 "owner": "Communist02",
                 "repo": "RcloneNavigator",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "cloud",
+                  "file-manager",
+                  "file-transfer",
+                  "file-upload",
+                  "rclone",
+                  "rclone-browser",
+                  "rclone-client",
+                  "rclone-gui"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             }
@@ -147,12 +258,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A full fledged UI for the rclone cloud sync tool",
+                "homepage": null,
                 "id": 189567442,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-18T13:22:42Z",
+                "open_issues": 93,
                 "owner": "rclone",
                 "repo": "rclone-webui-react",
-                "stars": 1561
+                "stars": 1561,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -163,12 +279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Motuz - A web based infrastructure for large scale data movements between on-premise and cloud ",
+                "homepage": null,
                 "id": 185876650,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-01-13T22:12:13Z",
+                "open_issues": 112,
                 "owner": "FredHutch",
                 "repo": "motuz",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             }
@@ -186,12 +307,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!",
+                "homepage": "https://roundsync.com",
                 "id": 282034661,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-16T12:31:49Z",
+                "open_issues": 193,
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2330
+                "stars": 2334,
+                "topics": [
+                  "android",
+                  "app",
+                  "backup",
+                  "cloud",
+                  "file-upload",
+                  "rclone",
+                  "remote",
+                  "sync",
+                  "synchronization"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -202,12 +338,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rclone for Android",
+                "homepage": "https://x0b.github.io",
                 "id": 134141635,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2023-11-26T21:55:00Z",
+                "open_issues": 145,
                 "owner": "x0b",
                 "repo": "rcx",
-                "stars": 2036
+                "stars": 2036,
+                "topics": [
+                  "android-app",
+                  "android-application",
+                  "file-manager",
+                  "rclone",
+                  "rclone-client",
+                  "storage-access-framework"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -218,12 +366,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "rclone explorer for Android",
+                "homepage": null,
                 "id": 124832580,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2020-05-03T15:27:40Z",
+                "open_issues": 49,
                 "owner": "patrykcoding",
                 "repo": "rcloneExplorer",
-                "stars": 360
+                "stars": 360,
+                "topics": [
+                  "android-app",
+                  "android-application",
+                  "rclone"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             }
@@ -247,12 +404,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Bidirectional Cloud Sync Utility using rclone",
+                "homepage": null,
                 "id": 141061716,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-07T04:16:02Z",
+                "open_issues": 15,
                 "owner": "cjnaz",
                 "repo": "rclonesync-V2",
-                "stars": 363
+                "stars": 363,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -263,12 +425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python-based bi-direction sync tool for rclone",
+                "homepage": null,
                 "id": 270094081,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-17T17:23:52Z",
+                "open_issues": 4,
                 "owner": "Jwink3101",
                 "repo": "syncrclone",
-                "stars": 171
+                "stars": 171,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -279,12 +446,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python (+ rsync or rclone) based intelligent file sync with automatic backups and file move/delete tracking.",
+                "homepage": null,
                 "id": 139068551,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-10-17T13:46:26Z",
+                "open_issues": 1,
                 "owner": "Jwink3101",
                 "repo": "PyFiSync",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "backup",
+                  "bi-directional",
+                  "cloud",
+                  "rclone",
+                  "rsync",
+                  "ssh",
+                  "sync"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -295,12 +475,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny, hackable, two-way cloud synchronisation client for Linux",
+                "homepage": null,
                 "id": 181579560,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-08-11T16:36:41Z",
+                "open_issues": 7,
                 "owner": "ConorWilliams",
                 "repo": "rsinc",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "cloud-storage",
+                  "onedrive",
+                  "rclone",
+                  "sync"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -311,12 +501,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A two way synchronization utility",
+                "homepage": null,
                 "id": 119407388,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-01-19T12:14:04Z",
+                "open_issues": 8,
                 "owner": "DavideRossi",
                 "repo": "upback",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "python",
+                  "remote-storage",
+                  "synchronization"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             }
@@ -334,12 +533,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An rclone script to perform backups",
+                "homepage": null,
                 "id": 124353129,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2020-08-24T10:52:43Z",
+                "open_issues": 7,
                 "owner": "wolfv6",
                 "repo": "rclone_jobber",
-                "stars": 273
+                "stars": 273,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -350,12 +554,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A declarative automation engine for rclone. Define your entire backup strategy in a single configuration file and get rich, real-time notifications.",
+                "homepage": null,
                 "id": 1015170034,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-08T07:06:13Z",
+                "open_issues": 0,
                 "owner": "PyCloneOrg",
                 "repo": "PyClone",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "pyclone",
+                  "rclone",
+                  "rclone-config"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -366,12 +579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 814225392,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-27T22:39:43Z",
+                "open_issues": 3,
                 "owner": "Gunther-Schulz",
                 "repo": "rclone-bisync-manager",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -382,12 +600,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full-file, append-only, backups that can be easily restored to any point in time. Can backup to and from *any* rclone remote",
+                "homepage": null,
                 "id": 619397565,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-21T15:51:12Z",
+                "open_issues": 0,
                 "owner": "Jwink3101",
                 "repo": "dfb",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "backup",
+                  "rclone",
+                  "versioning"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -398,12 +625,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Reverse Incremental Backup Script for RClone with support for Windows/Linux/Mac with Volume Shadow Copy (VSS) and email report.",
+                "homepage": null,
                 "id": 181027318,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-15T17:53:59Z",
+                "open_issues": 0,
                 "owner": "polar147",
                 "repo": "RCloneBackup",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "backup",
+                  "cloud",
+                  "email",
+                  "gdrive",
+                  "linux",
+                  "mac",
+                  "python",
+                  "rclone",
+                  "rclone-backup",
+                  "report",
+                  "shadow-copy",
+                  "volume-shadow-copy",
+                  "vss",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             }
@@ -421,12 +668,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, secure, efficient backup program",
+                "homepage": "https://restic.net",
                 "id": 19205896,
                 "language": "Go",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-01T20:25:16Z",
+                "open_issues": 584,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 35764
+                "stars": 35763,
+                "topics": [
+                  "backup",
+                  "dedupe",
+                  "deduplication",
+                  "go",
+                  "restic",
+                  "secure-by-default"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -437,12 +696,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+                "homepage": "https://kopia.io",
                 "id": 48299818,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T00:36:24Z",
+                "open_issues": 874,
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 13977
+                "stars": 13978,
+                "topics": [
+                  "backup",
+                  "cloud",
+                  "deduplication",
+                  "encryption",
+                  "google-cloud-storage"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -453,12 +723,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Duplicity backend using rclone",
+                "homepage": null,
                 "id": 76117316,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2023-12-05T19:21:07Z",
+                "open_issues": 1,
                 "owner": "GilGalaad",
                 "repo": "duplicity-rclone",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -469,12 +744,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rclone wrapper to easily backup your application files and database",
+                "homepage": null,
                 "id": 259384955,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2021-02-24T16:41:05Z",
+                "open_issues": 0,
                 "owner": "vifreefly",
                 "repo": "rcloner",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             }
@@ -498,12 +778,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Encrypt/Decrypt files in your browser",
+                "homepage": null,
                 "id": 119725465,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-12-21T08:50:17Z",
+                "open_issues": 21,
                 "owner": "FWeinb",
                 "repo": "rclone-js",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -514,12 +799,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenAPI-based client for the Rclone RC API",
+                "homepage": null,
                 "id": 1111419216,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-19T21:22:32Z",
+                "open_issues": 1,
                 "owner": "rclone-ui",
                 "repo": "rclone-sdk",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "akamai",
+                  "backblaze-b2",
+                  "borg",
+                  "cyberduck",
+                  "dropdown",
+                  "filezilla",
+                  "ftp",
+                  "fuse",
+                  "google-cloud-storage",
+                  "google-drive",
+                  "icloud",
+                  "npm",
+                  "proton",
+                  "rclone",
+                  "rclone-browser",
+                  "rclone-gui",
+                  "rsync",
+                  "rust-crate",
+                  "s3",
+                  "sftp"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -530,12 +841,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "rclone rc bindings for javascript",
+                "homepage": null,
                 "id": 268778410,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-05-30T12:19:47Z",
+                "open_issues": 5,
                 "owner": "rclone",
                 "repo": "rclone-js-api",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -546,12 +862,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://sntran.github.io/rclone.js",
                 "id": 344903733,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-07-04T20:36:00Z",
+                "open_issues": 1,
                 "owner": "sntran",
                 "repo": "rclone.js",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "cli",
+                  "hacktoberfest",
+                  "javascript-api",
+                  "rclone"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             }
@@ -569,12 +895,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP wrapper for rclone. Supports Local disk, Dropbox, FTP, SFTP, Google Drive, MEGA, S3 (any compatible) and others. Progress support.",
+                "homepage": null,
                 "id": 1153140797,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-09T03:24:15Z",
+                "open_issues": 1,
                 "owner": "verseles",
                 "repo": "flyclone",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "cloudatlas",
+                  "disk",
+                  "dropbox",
+                  "flysystem",
+                  "hacktoberfest",
+                  "php",
+                  "php-wrapper",
+                  "rclone",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             }
@@ -592,12 +933,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenAPI-based client for the Rclone RC API",
+                "homepage": null,
                 "id": 1111419216,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-19T21:22:32Z",
+                "open_issues": 1,
                 "owner": "rclone-ui",
                 "repo": "rclone-sdk",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "akamai",
+                  "backblaze-b2",
+                  "borg",
+                  "cyberduck",
+                  "dropdown",
+                  "filezilla",
+                  "ftp",
+                  "fuse",
+                  "google-cloud-storage",
+                  "google-drive",
+                  "icloud",
+                  "npm",
+                  "proton",
+                  "rclone",
+                  "rclone-browser",
+                  "rclone-gui",
+                  "rsync",
+                  "rust-crate",
+                  "s3",
+                  "sftp"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             }
@@ -619,12 +986,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AutoRclone: rclone copy/move/sync (automatically) with thousands of service accounts",
+            "homepage": "https://www.gfan.loan/?p=235",
             "id": 214442577,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-11T07:12:02Z",
+            "open_issues": 67,
             "owner": "xyou365",
             "repo": "AutoRclone",
-            "stars": 1382
+            "stars": 1382,
+            "topics": [
+              "google-cloud-apis",
+              "google-drive",
+              "gsuite-admin",
+              "json-files",
+              "linux",
+              "movies",
+              "python3",
+              "rclone",
+              "resources",
+              "service-accounts",
+              "team-drive",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:26:49.102Z"
         },
@@ -635,12 +1020,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rclone4pi - Easy Install of rclone to Raspberry Pi Computer with automated folder sync demo",
+            "homepage": null,
             "id": 114370880,
             "language": "Shell",
+            "license": null,
             "last_commit": "2018-06-09T13:42:53Z",
+            "open_issues": 2,
             "owner": "pageauc",
             "repo": "rclone4pi",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "automatic",
+              "bash-script",
+              "curl-commands",
+              "demo",
+              "easy-to-use",
+              "install-script",
+              "raspberry-pi",
+              "rclone-client",
+              "rclone-configuration",
+              "rclone-install",
+              "scripts"
+            ]
           },
           "first_seen": "2026-08-28T20:26:49.102Z"
         },
@@ -651,12 +1053,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny HTTP server that can serve files out of any rclone remote.",
+            "homepage": null,
             "id": 77198672,
             "language": "Go",
+            "license": null,
             "last_commit": "2017-03-04T03:21:38Z",
+            "open_issues": 1,
             "owner": "brandur",
             "repo": "rhttpserve",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:49.102Z"
         }
@@ -675,12 +1082,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease.",
+                "homepage": "https://www.veloxpack.io/docs/csi-driver-rclone",
                 "id": 1075392507,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T01:05:23Z",
+                "open_issues": 9,
                 "owner": "veloxpack",
                 "repo": "csi-driver-rclone",
-                "stars": 346
+                "stars": 346,
+                "topics": [
+                  "csi",
+                  "dropbox",
+                  "google-drive",
+                  "k8s",
+                  "rclone",
+                  "s3",
+                  "s3-bucket",
+                  "s3-storage",
+                  "storage",
+                  "wasabi-s3"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             },
@@ -691,12 +1114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSI driver for rclone",
+                "homepage": null,
                 "id": 189545846,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T07:42:34Z",
+                "open_issues": 26,
                 "owner": "wunderio",
                 "repo": "csi-rclone",
-                "stars": 261
+                "stars": 261,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             }
@@ -714,12 +1142,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Home Assistant addon to automatically sync backups to remote locations using Rclone",
+                "homepage": null,
                 "id": 319639593,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-12T17:45:41Z",
+                "open_issues": 45,
                 "owner": "jcwillox",
                 "repo": "hassio-rclone-backup",
-                "stars": 201
+                "stars": 201,
+                "topics": [
+                  "backup",
+                  "cloud",
+                  "google-drive",
+                  "hassio-addons",
+                  "home-assistant",
+                  "rclone"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             }
@@ -737,12 +1177,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wraps the rclone CLI to be used in Github Actions",
+                "homepage": null,
                 "id": 197442424,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2019-08-29T15:21:41Z",
+                "open_issues": 1,
                 "owner": "wei",
                 "repo": "rclone",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "action",
+                  "github-action",
+                  "rclone"
+                ]
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
             }
@@ -764,12 +1213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rclone mod",
+            "homepage": null,
             "id": 240205214,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-05T11:39:24Z",
+            "open_issues": 46,
             "owner": "donwa",
             "repo": "gclone",
-            "stars": 774
+            "stars": 774,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:49.102Z"
         },
@@ -780,12 +1234,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "RClone Fork that implements RealDebrid",
+            "homepage": "https://rclone.org",
             "id": 488582949,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-04-04T16:59:20Z",
+            "open_issues": 26,
             "owner": "itsToggle",
             "repo": "rclone_RD",
-            "stars": 223
+            "stars": 223,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:49.102Z"
         },
@@ -796,12 +1255,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fork from https://github.com/donwa/gclone",
+            "homepage": null,
             "id": 385117653,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-04-05T15:39:45Z",
+            "open_issues": 2,
             "owner": "dogbutcat",
             "repo": "gclone",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "gclone",
+              "google-drive",
+              "rclone"
+            ]
           },
           "first_seen": "2026-08-28T20:26:49.102Z"
         },
@@ -812,12 +1280,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A rclone mod with auto SA rotation",
+            "homepage": null,
             "id": 430241137,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-09-16T19:36:52Z",
+            "open_issues": 1,
             "owner": "l3v11",
             "repo": "gclone",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "gclone",
+              "google-drive",
+              "rclone"
+            ]
           },
           "first_seen": "2026-08-28T20:26:49.102Z"
         },
@@ -828,12 +1305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fclone, keep updated!",
+            "homepage": "https://drafts.misty.moe/qbittorrentee-fclone魔改-e18f6000ce944baba1f1f56c3ab2a334",
             "id": 374800864,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-09-12T22:23:49Z",
+            "open_issues": 12,
             "owner": "NyaMisty",
             "repo": "fclone",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:49.102Z"
         }
@@ -850,12 +1332,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A ranger-like system/cloud storage explorer for Vim, bringing together the best of Vim, ranger, and rclone.",
+            "homepage": null,
             "id": 112583960,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-09-12T05:38:33Z",
+            "open_issues": 8,
             "owner": "ipod825",
             "repo": "vim-netranger",
-            "stars": 184
+            "stars": 184,
+            "topics": [
+              "file-explorer",
+              "file-manager",
+              "folder-viewer",
+              "neovim",
+              "ranger",
+              "rclone-client",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-28T20:26:49.102Z"
         },
@@ -866,12 +1361,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenAPI 3.1 specification for the Rclone RC API",
+            "homepage": null,
             "id": 1111419987,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-19T20:29:37Z",
+            "open_issues": 1,
             "owner": "rclone",
             "repo": "rclone-openapi",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "backblaze-b2",
+              "cloudinary",
+              "cyberduck",
+              "dropbox",
+              "filezilla",
+              "ftp",
+              "fuse",
+              "google-cloud-storage",
+              "google-drive",
+              "icloud",
+              "internxt",
+              "koofr",
+              "openapi",
+              "proton",
+              "rclone",
+              "rclone-browser",
+              "rclone-gui",
+              "rsync",
+              "s3",
+              "sftp"
+            ]
           },
           "first_seen": "2026-08-28T20:26:49.102Z"
         },
@@ -882,12 +1403,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Config builder in YAML for Rclone",
+            "homepage": null,
             "id": 542034630,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T13:46:31Z",
+            "open_issues": 8,
             "owner": "Lesmiscore",
             "repo": "rclone-config-builder",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:49.102Z"
         }
@@ -896,15 +1422,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:26:49.102Z",
+    "last_updated": "2026-08-29T05:00:11.450Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The awesome list for everything rclone.",
+      "homepage": "https://awesome-rclone.com",
       "id": 1111422813,
       "language": "HTML",
+      "license": "CC0-1.0",
       "last_commit": "2026-03-10T11:26:04Z",
+      "open_issues": 2,
       "owner": "awesome-rclone",
       "repo": "awesome-rclone",
-      "stars": 85
+      "stars": 85,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "rclone"
+      ]
     },
     "original_repository_sha": "7bce8ddf1dc8ca823a51784b8f320a9f1d6a784f",
     "enhanced_repository": "enhansome/enhansome-rclone",
