@@ -83,11 +83,11 @@
                 "id": 973502326,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-26T07:16:00Z",
+                "last_commit": "2026-08-29T06:54:26Z",
                 "open_issues": 24,
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1061,
+                "stars": 1063,
                 "topics": [
                   "angular",
                   "angular-material",
@@ -316,7 +316,7 @@
                 "open_issues": 193,
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2334,
+                "stars": 2336,
                 "topics": [
                   "android",
                   "app",
@@ -347,7 +347,7 @@
                 "open_issues": 145,
                 "owner": "x0b",
                 "repo": "rcx",
-                "stars": 2036,
+                "stars": 2037,
                 "topics": [
                   "android-app",
                   "android-application",
@@ -677,7 +677,7 @@
                 "open_issues": 584,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 35763,
+                "stars": 35767,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -705,7 +705,7 @@
                 "open_issues": 874,
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 13978,
+                "stars": 13982,
                 "topics": [
                   "backup",
                   "cloud",
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:00:11.450Z",
+    "last_updated": "2026-08-29T14:02:42.938Z",
     "original_repository_info": {
       "archived": false,
       "description": "The awesome list for everything rclone.",
