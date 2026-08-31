@@ -21,7 +21,7 @@
                 "open_issues": 138,
                 "owner": "kapitainsky",
                 "repo": "RcloneBrowser",
-                "stars": 2949,
+                "stars": 2948,
                 "topics": [
                   "rclone",
                   "rclone-browser"
@@ -41,11 +41,11 @@
                 "id": 920598633,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T01:42:32Z",
-                "open_issues": 9,
+                "last_commit": "2026-08-31T01:20:51Z",
+                "open_issues": 10,
                 "owner": "rclone-ui",
                 "repo": "rclone-ui",
-                "stars": 2220,
+                "stars": 2221,
                 "topics": [
                   "backblaze-b2",
                   "cyberduck",
@@ -83,11 +83,11 @@
                 "id": 973502326,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-30T06:24:03Z",
+                "last_commit": "2026-08-30T15:50:43Z",
                 "open_issues": 18,
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1067,
+                "stars": 1071,
                 "topics": [
                   "angular",
                   "angular-material",
@@ -205,7 +205,7 @@
                 "open_issues": 3,
                 "owner": "pieterdd",
                 "repo": "RcloneShuttle",
-                "stars": 155,
+                "stars": 156,
                 "topics": [
                   "cloud-storage",
                   "file-upload",
@@ -316,7 +316,7 @@
                 "open_issues": 193,
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2337,
+                "stars": 2340,
                 "topics": [
                   "android",
                   "app",
@@ -347,7 +347,7 @@
                 "open_issues": 145,
                 "owner": "x0b",
                 "repo": "rcx",
-                "stars": 2037,
+                "stars": 2039,
                 "topics": [
                   "android-app",
                   "android-application",
@@ -674,10 +674,10 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-08-29T20:11:48Z",
-                "open_issues": 576,
+                "open_issues": 577,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 35781,
+                "stars": 35799,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -705,7 +705,7 @@
                 "open_issues": 876,
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 13990,
+                "stars": 13995,
                 "topics": [
                   "backup",
                   "cloud",
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:01:31.503Z",
+    "last_updated": "2026-08-31T16:25:56.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "The awesome list for everything rclone.",
