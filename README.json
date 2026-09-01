@@ -21,7 +21,7 @@
                 "open_issues": 138,
                 "owner": "kapitainsky",
                 "repo": "RcloneBrowser",
-                "stars": 2948,
+                "stars": 2949,
                 "topics": [
                   "rclone",
                   "rclone-browser"
@@ -45,7 +45,7 @@
                 "open_issues": 10,
                 "owner": "rclone-ui",
                 "repo": "rclone-ui",
-                "stars": 2221,
+                "stars": 2223,
                 "topics": [
                   "backblaze-b2",
                   "cyberduck",
@@ -673,11 +673,11 @@
                 "id": 19205896,
                 "language": "Go",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-29T20:11:48Z",
-                "open_issues": 577,
+                "last_commit": "2026-09-01T01:43:58Z",
+                "open_issues": 584,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 35799,
+                "stars": 35812,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -701,11 +701,11 @@
                 "id": 48299818,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T12:22:44Z",
-                "open_issues": 876,
+                "last_commit": "2026-08-31T22:40:39Z",
+                "open_issues": 874,
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 13995,
+                "stars": 14002,
                 "topics": [
                   "backup",
                   "cloud",
@@ -1408,7 +1408,7 @@
             "id": 542034630,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-27T13:46:31Z",
+            "last_commit": "2026-08-31T18:06:47Z",
             "open_issues": 8,
             "owner": "Lesmiscore",
             "repo": "rclone-config-builder",
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T16:25:56.408Z",
+    "last_updated": "2026-09-01T13:44:02.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "The awesome list for everything rclone.",
