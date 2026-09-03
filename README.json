@@ -83,11 +83,11 @@
                 "id": 973502326,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-30T15:50:43Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-03T10:43:49Z",
+                "open_issues": 19,
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1073,
+                "stars": 1077,
                 "topics": [
                   "angular",
                   "angular-material",
@@ -316,7 +316,7 @@
                 "open_issues": 193,
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2341,
+                "stars": 2342,
                 "topics": [
                   "android",
                   "app",
@@ -434,7 +434,7 @@
                 "open_issues": 4,
                 "owner": "Jwink3101",
                 "repo": "syncrclone",
-                "stars": 171,
+                "stars": 170,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
@@ -455,7 +455,7 @@
                 "open_issues": 1,
                 "owner": "Jwink3101",
                 "repo": "PyFiSync",
-                "stars": 110,
+                "stars": 109,
                 "topics": [
                   "backup",
                   "bi-directional",
@@ -542,7 +542,7 @@
                 "open_issues": 7,
                 "owner": "wolfv6",
                 "repo": "rclone_jobber",
-                "stars": 273,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
@@ -674,10 +674,10 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-01T01:43:58Z",
-                "open_issues": 584,
+                "open_issues": 585,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 35826,
+                "stars": 35838,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -701,11 +701,11 @@
                 "id": 48299818,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T05:07:21Z",
-                "open_issues": 875,
+                "last_commit": "2026-09-03T05:56:31Z",
+                "open_issues": 877,
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 14013,
+                "stars": 14025,
                 "topics": [
                   "backup",
                   "cloud",
@@ -1087,11 +1087,11 @@
                 "id": 1075392507,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-24T01:05:23Z",
+                "last_commit": "2026-09-03T01:03:54Z",
                 "open_issues": 9,
                 "owner": "veloxpack",
                 "repo": "csi-driver-rclone",
-                "stars": 346,
+                "stars": 347,
                 "topics": [
                   "csi",
                   "dropbox",
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T13:00:49.959Z",
+    "last_updated": "2026-09-03T13:03:04.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "The awesome list for everything rclone.",
