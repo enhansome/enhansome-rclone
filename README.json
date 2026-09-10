@@ -45,7 +45,7 @@
                 "open_issues": 13,
                 "owner": "rclone-ui",
                 "repo": "rclone-ui",
-                "stars": 2244,
+                "stars": 2246,
                 "topics": [
                   "backblaze-b2",
                   "cyberduck",
@@ -83,11 +83,11 @@
                 "id": 973502326,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-08T11:56:01Z",
+                "last_commit": "2026-09-09T19:31:51Z",
                 "open_issues": 18,
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1090,
+                "stars": 1097,
                 "topics": [
                   "angular",
                   "angular-material",
@@ -226,7 +226,7 @@
                 "id": 1022249493,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-05-27T05:01:08Z",
+                "last_commit": "2026-09-09T21:31:06Z",
                 "open_issues": 4,
                 "owner": "Communist02",
                 "repo": "RcloneNavigator",
@@ -316,7 +316,7 @@
                 "open_issues": 194,
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2350,
+                "stars": 2351,
                 "topics": [
                   "android",
                   "app",
@@ -347,7 +347,7 @@
                 "open_issues": 144,
                 "owner": "x0b",
                 "repo": "rcx",
-                "stars": 2039,
+                "stars": 2040,
                 "topics": [
                   "android-app",
                   "android-application",
@@ -542,7 +542,7 @@
                 "open_issues": 7,
                 "owner": "wolfv6",
                 "repo": "rclone_jobber",
-                "stars": 272,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
@@ -674,10 +674,10 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-01T01:43:58Z",
-                "open_issues": 594,
+                "open_issues": 595,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 35949,
+                "stars": 35958,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -701,11 +701,11 @@
                 "id": 48299818,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T04:09:30Z",
-                "open_issues": 877,
+                "last_commit": "2026-09-10T05:47:34Z",
+                "open_issues": 875,
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 14076,
+                "stars": 14080,
                 "topics": [
                   "backup",
                   "cloud",
@@ -904,7 +904,7 @@
                 "open_issues": 1,
                 "owner": "verseles",
                 "repo": "flyclone",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "cloudatlas",
                   "disk",
@@ -995,7 +995,7 @@
             "open_issues": 67,
             "owner": "xyou365",
             "repo": "AutoRclone",
-            "stars": 1381,
+            "stars": 1382,
             "topics": [
               "google-cloud-apis",
               "google-drive",
@@ -1422,15 +1422,15 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:11:49.487Z",
+    "last_updated": "2026-09-10T13:09:30.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "The awesome list for everything rclone.",
       "homepage": "https://awesome-rclone.com",
       "id": 1111422813,
-      "language": "HTML",
+      "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-03-10T11:26:04Z",
+      "last_commit": "2026-09-09T14:12:38Z",
       "open_issues": 2,
       "owner": "awesome-rclone",
       "repo": "awesome-rclone",
@@ -1441,7 +1441,7 @@
         "rclone"
       ]
     },
-    "original_repository_sha": "7bce8ddf1dc8ca823a51784b8f320a9f1d6a784f",
+    "original_repository_sha": "22269d434561d3a3a156d0d310c70d669c0e0cc3",
     "enhanced_repository": "enhansome/enhansome-rclone",
     "enhanced_repository_description": null,
     "title": "Awesome Rclone with stars"
