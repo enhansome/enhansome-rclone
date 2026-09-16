@@ -2,7 +2,7 @@
 
 > A curated list of tools, GUIs, integrations, libraries, and resources for [rclone](https://rclone.org/#docs) - the "Swiss army knife of cloud storage".
 
-[Rclone](https://github.com/rclone/rclone?tab=readme-ov-file#rclone) ⭐ 59,766 | 🐛 1,265 | 🌐 Go | 📅 2026-09-15 is a command-line program to sync files and directories to and from dozens of cloud storage providers. This list collects the ecosystem of projects built around rclone.
+[Rclone](https://github.com/rclone/rclone?tab=readme-ov-file#rclone) ⭐ 59,781 | 🐛 1,259 | 🌐 Go | 📅 2026-09-16 is a command-line program to sync files and directories to and from dozens of cloud storage providers. This list collects the ecosystem of projects built around rclone.
 
 ## Contents
 
@@ -35,7 +35,7 @@
 
 ## Official Resources
 
-* [Rclone](https://github.com/rclone/rclone) ⭐ 59,766 | 🐛 1,265 | 🌐 Go | 📅 2026-09-15 - The core command-line tool for syncing files to 70+ cloud storage providers. Created by @ncw and loved by everyone. ![GitHub stars](https://img.shields.io/github/stars/rclone/rclone)
+* [Rclone](https://github.com/rclone/rclone) ⭐ 59,781 | 🐛 1,259 | 🌐 Go | 📅 2026-09-16 - The core command-line tool for syncing files to 70+ cloud storage providers. Created by @ncw and loved by everyone. ![GitHub stars](https://img.shields.io/github/stars/rclone/rclone)
 * [Docs](https://rclone.org) - The official **`rclone`** docs.
 * [Forum](https://forum.rclone.org) - The official **`rclone`** forum.
 
@@ -43,12 +43,12 @@
 
 ### Desktop
 
-* [Rclone Browser](https://github.com/kapitainsky/RcloneBrowser) ⭐ 2,945 | 🐛 138 | 🌐 C++ | 📅 2024-03-11 - Cross-platform Qt GUI for browsing, transferring, mounting, and streaming files. Fork of original by mmozeiko. **`Inactive since 2020`** ![GitHub stars](https://img.shields.io/github/stars/kapitainsky/RcloneBrowser)
-* [Rclone UI](https://github.com/rclone-ui/rclone-ui) ⭐ 2,257 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-31 - Modern, battle-tested, cross-platform desktop GUI built with Rust. Most recommended & actively maintained solution for both newbies and veterans. ![GitHub stars](https://img.shields.io/github/stars/rclone-ui/rclone-ui)
-* [Rclone Manager](https://github.com/Zarestia-Dev/rclone-manager) ⭐ 1,114 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-15 - Hobby cross-platform GUI built with Angular. ![GitHub stars](https://img.shields.io/github/stars/Zarestia-Dev/rclone-manager)
+* [Rclone Browser](https://github.com/kapitainsky/RcloneBrowser) ⭐ 2,946 | 🐛 138 | 🌐 C++ | 📅 2024-03-11 - Cross-platform Qt GUI for browsing, transferring, mounting, and streaming files. Fork of original by mmozeiko. **`Inactive since 2020`** ![GitHub stars](https://img.shields.io/github/stars/kapitainsky/RcloneBrowser)
+* [Rclone UI](https://github.com/rclone-ui/rclone-ui) ⭐ 2,259 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-31 - Modern, battle-tested, cross-platform desktop GUI built with Rust. Most recommended & actively maintained solution for both newbies and veterans. ![GitHub stars](https://img.shields.io/github/stars/rclone-ui/rclone-ui)
+* [Rclone Manager](https://github.com/Zarestia-Dev/rclone-manager) ⭐ 1,117 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-16 - Hobby cross-platform GUI built with Angular. ![GitHub stars](https://img.shields.io/github/stars/Zarestia-Dev/rclone-manager)
 * [REM](https://github.com/liriliri/rem) ⭐ 623 | 🐛 13 | 🌐 TypeScript | 📅 2025-12-22 - Kawaii rclone client. Can be seen as an open source version of RcloneView. ![GitHub stars](https://img.shields.io/github/stars/liriliri/rem)
 * [RcloneTray](https://github.com/dimitrov-adrian/RcloneTray) ⭐ 287 | 🐛 17 | 🌐 JavaScript | 📅 2024-05-11 - Minimal Electron-based system tray application for mounting and managing remotes. **`Inactive since 2018`** ![GitHub stars](https://img.shields.io/github/stars/dimitrov-adrian/RcloneTray)
-* [RcloneNg](https://github.com/ElonH/RcloneNg) ⭐ 195 | 🐛 27 | 🌐 TypeScript | 📅 2023-01-06 - Angular-based web app GUI with two-pane file manager interface. Packaged for OpenWrt. **`Inactive since 2021`** ![GitHub stars](https://img.shields.io/github/stars/ElonH/RcloneNg)
+* [RcloneNg](https://github.com/ElonH/RcloneNg) ⭐ 194 | 🐛 27 | 🌐 TypeScript | 📅 2023-01-06 - Angular-based web app GUI with two-pane file manager interface. Packaged for OpenWrt. **`Inactive since 2021`** ![GitHub stars](https://img.shields.io/github/stars/ElonH/RcloneNg)
 * [Rclone Shuttle](https://github.com/pieterdd/RcloneShuttle) ⭐ 156 | 🐛 3 | 🌐 Rust | 📅 2026-06-27 - GTK4-based graphical uploader for rclone. Simple drag-and-drop file transfers written in Rust. ![GitHub stars](https://img.shields.io/github/stars/pieterdd/RcloneShuttle)
 * [Rclone Navigator](https://github.com/Communist02/RcloneNavigator) ⭐ 8 | 🐛 4 | 🌐 Python | 📅 2026-09-09 - Desktop GUI for managing files in cloud storage. Supports Linux and Windows with features for browsing, uploading, downloading, mounting, and serving remotes. ![GitHub stars](https://img.shields.io/github/stars/Communist02/RcloneNavigator)
 * [RcloneView](https://rcloneview.com/) - Commercial GUI for Windows/macOS with folder comparison and multi-window remote control. Flutter based and developed in Korea.
@@ -87,8 +87,8 @@
 
 ### Backup Software with Rclone Support
 
-* [restic](https://github.com/restic/restic) ⭐ 36,054 | 🐛 596 | 🌐 Go | 📅 2026-09-01 - Secure deduplicating backup program. Can use rclone as backend to access many cloud storage services. ![GitHub stars](https://img.shields.io/github/stars/restic/restic)
-* [Kopia](https://github.com/kopia/kopia) ⭐ 14,119 | 🐛 881 | 🌐 Go | 📅 2026-09-14 - Open-source backup tool for encrypted, deduplicated backups. Supports rclone as transport for additional cloud providers. ![GitHub stars](https://img.shields.io/github/stars/kopia/kopia)
+* [restic](https://github.com/restic/restic) ⭐ 36,068 | 🐛 597 | 🌐 Go | 📅 2026-09-01 - Secure deduplicating backup program. Can use rclone as backend to access many cloud storage services. ![GitHub stars](https://img.shields.io/github/stars/restic/restic)
+* [Kopia](https://github.com/kopia/kopia) ⭐ 14,126 | 🐛 881 | 🌐 Go | 📅 2026-09-15 - Open-source backup tool for encrypted, deduplicated backups. Supports rclone as transport for additional cloud providers. ![GitHub stars](https://img.shields.io/github/stars/kopia/kopia)
 * [Duplicity Backend](https://github.com/GilGalaad/duplicity-rclone) ⚠️ Archived - Plugin allowing Duplicity backup software to use rclone as a storage backend. **`Archived`** ![GitHub stars](https://img.shields.io/github/stars/GilGalaad/duplicity-rclone)
 * [Rcloner](https://github.com/vifreefly/rcloner) ⭐ 9 | 🐛 0 | 🌐 Ruby | 📅 2021-02-24 - Ruby gem wrapping Duplicity and rclone for easy app backups with encryption. ![GitHub stars](https://img.shields.io/github/stars/vifreefly/rcloner)
 * [HashBackup](http://www.hashbackup.com/) - Efficient multi-threaded command-line backup for Linux/Unix. Can invoke rclone as transport for unsupported storage systems. **`Commercial`**
@@ -168,7 +168,7 @@
 
 * [vim-netranger](https://github.com/ipod825/vim-netranger) ⚠️ Archived - Vim/Neovim plugin providing ranger-like file explorer with rclone cloud storage support. **`Deprecated`** ![GitHub stars](https://img.shields.io/github/stars/ipod825/vim-netranger)
 * [rclone-openapi](https://github.com/rclone-ui/rclone-openapi) ⭐ 47 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-19 - OpenAPI 3.0 specification for rclone's RC API. Useful for generating clients and documentation. ![GitHub stars](https://img.shields.io/github/stars/rclone-ui/rclone-openapi)
-* [rclone-config-builder](https://github.com/Lesmiscore/rclone-config-builder) ⭐ 1 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-11 - Library to build rclone config files in JSON/YAML. ![GitHub stars](https://img.shields.io/github/stars/Lesmiscore/rclone-config-builder)
+* [rclone-config-builder](https://github.com/Lesmiscore/rclone-config-builder) ⭐ 1 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-15 - Library to build rclone config files in JSON/YAML. ![GitHub stars](https://img.shields.io/github/stars/Lesmiscore/rclone-config-builder)
 * [@x-cmd-pkg/rclone](https://www.npmjs.com/package/@x-cmd-pkg/rclone) - Rclone binaries repackaged as npm module for easy installation in Node projects.
 * [Sprinkle](https://mmontuori.github.io/Sprinkle/) - Volume clustering utility presenting multiple rclone cloud drives as one virtual volume for backup/recovery. **`Inactive`**
 * [Polo File Manager](https://teejee2008.github.io/polo/) - Advanced Linux file manager with built-in rclone integration for cloud storage. **`Inactive`**
@@ -188,4 +188,4 @@ Please read the [contribution guidelines](contributing.md) before submitting a p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
