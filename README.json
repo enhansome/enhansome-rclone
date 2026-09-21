@@ -21,7 +21,7 @@
                 "open_issues": 138,
                 "owner": "kapitainsky",
                 "repo": "RcloneBrowser",
-                "stars": 2946,
+                "stars": 2947,
                 "topics": [
                   "rclone",
                   "rclone-browser"
@@ -41,11 +41,11 @@
                 "id": 920598633,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T22:42:05Z",
+                "last_commit": "2026-09-21T14:42:11Z",
                 "open_issues": 11,
-                "owner": "rclone-ui",
+                "owner": "rclone",
                 "repo": "rclone-ui",
-                "stars": 2269,
+                "stars": 2270,
                 "topics": [
                   "backblaze-b2",
                   "cyberduck",
@@ -83,11 +83,11 @@
                 "id": 973502326,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T17:06:33Z",
-                "open_issues": 26,
+                "last_commit": "2026-09-21T08:54:15Z",
+                "open_issues": 25,
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1121,
+                "stars": 1123,
                 "topics": [
                   "angular",
                   "angular-material",
@@ -316,7 +316,7 @@
                 "open_issues": 194,
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2367,
+                "stars": 2370,
                 "topics": [
                   "android",
                   "app",
@@ -347,7 +347,7 @@
                 "open_issues": 144,
                 "owner": "x0b",
                 "repo": "rcx",
-                "stars": 2045,
+                "stars": 2046,
                 "topics": [
                   "android-app",
                   "android-application",
@@ -673,11 +673,11 @@
                 "id": 19205896,
                 "language": "Go",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-01T01:43:58Z",
-                "open_issues": 598,
+                "last_commit": "2026-09-20T20:05:21Z",
+                "open_issues": 590,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 36148,
+                "stars": 36164,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -702,10 +702,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-20T12:22:55Z",
-                "open_issues": 885,
+                "open_issues": 886,
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 14149,
+                "stars": 14164,
                 "topics": [
                   "backup",
                   "cloud",
@@ -995,7 +995,7 @@
             "open_issues": 67,
             "owner": "xyou365",
             "repo": "AutoRclone",
-            "stars": 1383,
+            "stars": 1384,
             "topics": [
               "google-cloud-apis",
               "google-drive",
@@ -1408,7 +1408,7 @@
             "id": 542034630,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T22:15:15Z",
+            "last_commit": "2026-09-21T02:23:17Z",
             "open_issues": 8,
             "owner": "Lesmiscore",
             "repo": "rclone-config-builder",
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:15:06.112Z",
+    "last_updated": "2026-09-21T15:22:41.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "The awesome list for everything rclone.",
