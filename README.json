@@ -21,7 +21,7 @@
                 "open_issues": 138,
                 "owner": "kapitainsky",
                 "repo": "RcloneBrowser",
-                "stars": 2949,
+                "stars": 2950,
                 "topics": [
                   "rclone",
                   "rclone-browser"
@@ -45,7 +45,7 @@
                 "open_issues": 11,
                 "owner": "rclone",
                 "repo": "rclone-ui",
-                "stars": 2270,
+                "stars": 2275,
                 "topics": [
                   "backblaze-b2",
                   "cyberduck",
@@ -316,7 +316,7 @@
                 "open_issues": 194,
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2370,
+                "stars": 2372,
                 "topics": [
                   "android",
                   "app",
@@ -347,7 +347,7 @@
                 "open_issues": 144,
                 "owner": "x0b",
                 "repo": "rcx",
-                "stars": 2047,
+                "stars": 2048,
                 "topics": [
                   "android-app",
                   "android-application",
@@ -674,10 +674,10 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-20T20:05:21Z",
-                "open_issues": 591,
+                "open_issues": 592,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 36181,
+                "stars": 36203,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -702,10 +702,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-20T12:22:55Z",
-                "open_issues": 888,
+                "open_issues": 889,
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 14174,
+                "stars": 14184,
                 "topics": [
                   "backup",
                   "cloud",
@@ -1222,7 +1222,7 @@
             "open_issues": 46,
             "owner": "donwa",
             "repo": "gclone",
-            "stars": 773,
+            "stars": 774,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:49.102Z"
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T13:42:37.329Z",
+    "last_updated": "2026-09-23T13:54:01.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "The awesome list for everything rclone.",
