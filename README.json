@@ -45,7 +45,7 @@
                 "open_issues": 11,
                 "owner": "rclone",
                 "repo": "rclone-ui",
-                "stars": 2275,
+                "stars": 2278,
                 "topics": [
                   "backblaze-b2",
                   "cyberduck",
@@ -83,11 +83,11 @@
                 "id": 973502326,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T12:28:33Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-24T05:21:48Z",
+                "open_issues": 26,
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1129,
+                "stars": 1132,
                 "topics": [
                   "angular",
                   "angular-material",
@@ -316,7 +316,7 @@
                 "open_issues": 194,
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2372,
+                "stars": 2371,
                 "topics": [
                   "android",
                   "app",
@@ -677,7 +677,7 @@
                 "open_issues": 592,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 36203,
+                "stars": 36220,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -702,10 +702,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-20T12:22:55Z",
-                "open_issues": 889,
+                "open_issues": 890,
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 14184,
+                "stars": 14193,
                 "topics": [
                   "backup",
                   "cloud",
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T13:54:01.389Z",
+    "last_updated": "2026-09-24T13:50:59.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "The awesome list for everything rclone.",
