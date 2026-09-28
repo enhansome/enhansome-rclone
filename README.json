@@ -21,7 +21,7 @@
                 "open_issues": 138,
                 "owner": "kapitainsky",
                 "repo": "RcloneBrowser",
-                "stars": 2951,
+                "stars": 2953,
                 "topics": [
                   "rclone",
                   "rclone-browser"
@@ -45,7 +45,7 @@
                 "open_issues": 11,
                 "owner": "rclone",
                 "repo": "rclone-ui",
-                "stars": 2281,
+                "stars": 2285,
                 "topics": [
                   "backblaze-b2",
                   "cyberduck",
@@ -83,11 +83,11 @@
                 "id": 973502326,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-27T12:46:24Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-28T15:36:27Z",
+                "open_issues": 15,
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1138,
+                "stars": 1143,
                 "topics": [
                   "angular",
                   "angular-material",
@@ -122,7 +122,7 @@
                 "open_issues": 13,
                 "owner": "liriliri",
                 "repo": "rem",
-                "stars": 624,
+                "stars": 625,
                 "topics": [
                   "electron",
                   "electron-app",
@@ -316,7 +316,7 @@
                 "open_issues": 194,
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2374,
+                "stars": 2375,
                 "topics": [
                   "android",
                   "app",
@@ -347,7 +347,7 @@
                 "open_issues": 144,
                 "owner": "x0b",
                 "repo": "rcx",
-                "stars": 2049,
+                "stars": 2050,
                 "topics": [
                   "android-app",
                   "android-application",
@@ -677,7 +677,7 @@
                 "open_issues": 593,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 36279,
+                "stars": 36306,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -705,7 +705,7 @@
                 "open_issues": 892,
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 14204,
+                "stars": 14214,
                 "topics": [
                   "backup",
                   "cloud",
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T14:21:29.874Z",
+    "last_updated": "2026-09-28T17:05:12.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "The awesome list for everything rclone.",
