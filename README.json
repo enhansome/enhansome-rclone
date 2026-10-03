@@ -45,7 +45,7 @@
                 "open_issues": 11,
                 "owner": "rclone",
                 "repo": "rclone-ui",
-                "stars": 2295,
+                "stars": 2296,
                 "topics": [
                   "backblaze-b2",
                   "cyberduck",
@@ -87,7 +87,7 @@
                 "open_issues": 15,
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1148,
+                "stars": 1151,
                 "topics": [
                   "angular",
                   "angular-material",
@@ -674,10 +674,10 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-01T01:44:09Z",
-                "open_issues": 610,
+                "open_issues": 611,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 36387,
+                "stars": 36391,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -701,11 +701,11 @@
                 "id": 48299818,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:53:04Z",
-                "open_issues": 893,
+                "last_commit": "2026-10-03T05:10:11Z",
+                "open_issues": 892,
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 14245,
+                "stars": 14246,
                 "topics": [
                   "backup",
                   "cloud",
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:07:14.027Z",
+    "last_updated": "2026-10-03T13:59:11.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "The awesome list for everything rclone.",
