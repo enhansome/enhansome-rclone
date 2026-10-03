@@ -2,7 +2,7 @@
 
 > A curated list of tools, GUIs, integrations, libraries, and resources for [rclone](https://rclone.org/#docs) - the "Swiss army knife of cloud storage".
 
-[Rclone](https://github.com/rclone/rclone?tab=readme-ov-file#rclone) ⭐ 60,068 | 🐛 1,305 | 🌐 Go | 📅 2026-10-02 is a command-line program to sync files and directories to and from dozens of cloud storage providers. This list collects the ecosystem of projects built around rclone.
+[Rclone](https://github.com/rclone/rclone?tab=readme-ov-file#rclone) ⭐ 60,078 | 🐛 1,311 | 🌐 Go | 📅 2026-10-02 is a command-line program to sync files and directories to and from dozens of cloud storage providers. This list collects the ecosystem of projects built around rclone.
 
 ## Contents
 
@@ -35,7 +35,7 @@
 
 ## Official Resources
 
-* [Rclone](https://github.com/rclone/rclone) ⭐ 60,068 | 🐛 1,305 | 🌐 Go | 📅 2026-10-02 - The core command-line tool for syncing files to 70+ cloud storage providers. Created by @ncw and loved by everyone. ![GitHub stars](https://img.shields.io/github/stars/rclone/rclone)
+* [Rclone](https://github.com/rclone/rclone) ⭐ 60,078 | 🐛 1,311 | 🌐 Go | 📅 2026-10-02 - The core command-line tool for syncing files to 70+ cloud storage providers. Created by @ncw and loved by everyone. ![GitHub stars](https://img.shields.io/github/stars/rclone/rclone)
 * [Docs](https://rclone.org) - The official **`rclone`** docs.
 * [Forum](https://forum.rclone.org) - The official **`rclone`** forum.
 
@@ -43,10 +43,10 @@
 
 ### Desktop
 
-* [Rclone Browser](https://github.com/kapitainsky/RcloneBrowser) ⭐ 2,953 | 🐛 138 | 🌐 C++ | 📅 2024-03-11 - Cross-platform Qt GUI for browsing, transferring, mounting, and streaming files. Fork of original by mmozeiko. **`Inactive since 2020`** ![GitHub stars](https://img.shields.io/github/stars/kapitainsky/RcloneBrowser)
-* [Rclone UI](https://github.com/rclone-ui/rclone-ui) ⭐ 2,292 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-21 - Modern, battle-tested, cross-platform desktop GUI built with Rust. Most recommended & actively maintained solution for both newbies and veterans. ![GitHub stars](https://img.shields.io/github/stars/rclone-ui/rclone-ui)
-* [Rclone Manager](https://github.com/Zarestia-Dev/rclone-manager) ⭐ 1,150 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-01 - Hobby cross-platform GUI built with Angular. ![GitHub stars](https://img.shields.io/github/stars/Zarestia-Dev/rclone-manager)
-* [REM](https://github.com/liriliri/rem) ⭐ 635 | 🐛 13 | 🌐 TypeScript | 📅 2025-12-22 - Kawaii rclone client. Can be seen as an open source version of RcloneView. ![GitHub stars](https://img.shields.io/github/stars/liriliri/rem)
+* [Rclone Browser](https://github.com/kapitainsky/RcloneBrowser) ⭐ 2,951 | 🐛 138 | 🌐 C++ | 📅 2024-03-11 - Cross-platform Qt GUI for browsing, transferring, mounting, and streaming files. Fork of original by mmozeiko. **`Inactive since 2020`** ![GitHub stars](https://img.shields.io/github/stars/kapitainsky/RcloneBrowser)
+* [Rclone UI](https://github.com/rclone-ui/rclone-ui) ⭐ 2,295 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-21 - Modern, battle-tested, cross-platform desktop GUI built with Rust. Most recommended & actively maintained solution for both newbies and veterans. ![GitHub stars](https://img.shields.io/github/stars/rclone-ui/rclone-ui)
+* [Rclone Manager](https://github.com/Zarestia-Dev/rclone-manager) ⭐ 1,148 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-01 - Hobby cross-platform GUI built with Angular. ![GitHub stars](https://img.shields.io/github/stars/Zarestia-Dev/rclone-manager)
+* [REM](https://github.com/liriliri/rem) ⭐ 636 | 🐛 13 | 🌐 TypeScript | 📅 2025-12-22 - Kawaii rclone client. Can be seen as an open source version of RcloneView. ![GitHub stars](https://img.shields.io/github/stars/liriliri/rem)
 * [RcloneTray](https://github.com/dimitrov-adrian/RcloneTray) ⭐ 288 | 🐛 17 | 🌐 JavaScript | 📅 2024-05-11 - Minimal Electron-based system tray application for mounting and managing remotes. **`Inactive since 2018`** ![GitHub stars](https://img.shields.io/github/stars/dimitrov-adrian/RcloneTray)
 * [RcloneNg](https://github.com/ElonH/RcloneNg) ⭐ 194 | 🐛 27 | 🌐 TypeScript | 📅 2023-01-06 - Angular-based web app GUI with two-pane file manager interface. Packaged for OpenWrt. **`Inactive since 2021`** ![GitHub stars](https://img.shields.io/github/stars/ElonH/RcloneNg)
 * [Rclone Shuttle](https://github.com/pieterdd/RcloneShuttle) ⭐ 156 | 🐛 3 | 🌐 Rust | 📅 2026-06-27 - GTK4-based graphical uploader for rclone. Simple drag-and-drop file transfers written in Rust. ![GitHub stars](https://img.shields.io/github/stars/pieterdd/RcloneShuttle)
@@ -62,8 +62,8 @@
 
 ### Mobile
 
-* [Round Sync](https://github.com/newhinton/Round-Sync) ⭐ 2,377 | 🐛 194 | 🌐 Java | 📅 2025-11-16 - Fork of RCX with Material 3 Design, task management, and enhanced features. Available on [F-Droid](https://f-droid.org/packages/de.felixnuesse.extract/) and [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.felixnuesse.extract). [Website](https://roundsync.com/) ![GitHub stars](https://img.shields.io/github/stars/newhinton/Round-Sync)
-* [RCX (Rclone for Android)](https://github.com/x0b/rcx) ⭐ 2,051 | 🐛 144 | 🌐 Java | 📅 2023-11-26 - Full-featured Android file manager powered by rclone. Browse, upload, download, stream, and manage files on cloud remotes. Available on [F-Droid](https://f-droid.org/en/packages/io.github.x0b.rcx/) and Google Play. ![GitHub stars](https://img.shields.io/github/stars/x0b/rcx)
+* [Round Sync](https://github.com/newhinton/Round-Sync) ⭐ 2,379 | 🐛 194 | 🌐 Java | 📅 2025-11-16 - Fork of RCX with Material 3 Design, task management, and enhanced features. Available on [F-Droid](https://f-droid.org/packages/de.felixnuesse.extract/) and [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.felixnuesse.extract). [Website](https://roundsync.com/) ![GitHub stars](https://img.shields.io/github/stars/newhinton/Round-Sync)
+* [RCX (Rclone for Android)](https://github.com/x0b/rcx) ⭐ 2,052 | 🐛 144 | 🌐 Java | 📅 2023-11-26 - Full-featured Android file manager powered by rclone. Browse, upload, download, stream, and manage files on cloud remotes. Available on [F-Droid](https://f-droid.org/en/packages/io.github.x0b.rcx/) and Google Play. ![GitHub stars](https://img.shields.io/github/stars/x0b/rcx)
 * [Rclone Explorer](https://github.com/patrykcoding/rcloneExplorer) ⭐ 360 | 🐛 49 | 🌐 Java | 📅 2020-05-03 - Original Android GUI for rclone. **`Inactive since 2018, superseded by RCX`** ![GitHub stars](https://img.shields.io/github/stars/patrykcoding/rcloneExplorer)
 * [Unified Cloud Storage](https://play.google.com/store/apps/details?id=com.codestation.unifiedcloudstorage) - Legacy Android app for managing multiple cloud storage accounts via rclone. **`Inactive since 2017`**
 
@@ -87,8 +87,8 @@
 
 ### Backup Software with Rclone Support
 
-* [restic](https://github.com/restic/restic) ⭐ 36,381 | 🐛 610 | 🌐 Go | 📅 2026-10-01 - Secure deduplicating backup program. Can use rclone as backend to access many cloud storage services. ![GitHub stars](https://img.shields.io/github/stars/restic/restic)
-* [Kopia](https://github.com/kopia/kopia) ⭐ 14,239 | 🐛 896 | 🌐 Go | 📅 2026-10-01 - Open-source backup tool for encrypted, deduplicated backups. Supports rclone as transport for additional cloud providers. ![GitHub stars](https://img.shields.io/github/stars/kopia/kopia)
+* [restic](https://github.com/restic/restic) ⭐ 36,387 | 🐛 610 | 🌐 Go | 📅 2026-10-01 - Secure deduplicating backup program. Can use rclone as backend to access many cloud storage services. ![GitHub stars](https://img.shields.io/github/stars/restic/restic)
+* [Kopia](https://github.com/kopia/kopia) ⭐ 14,245 | 🐛 893 | 🌐 Go | 📅 2026-10-03 - Open-source backup tool for encrypted, deduplicated backups. Supports rclone as transport for additional cloud providers. ![GitHub stars](https://img.shields.io/github/stars/kopia/kopia)
 * [Duplicity Backend](https://github.com/GilGalaad/duplicity-rclone) ⚠️ Archived - Plugin allowing Duplicity backup software to use rclone as a storage backend. **`Archived`** ![GitHub stars](https://img.shields.io/github/stars/GilGalaad/duplicity-rclone)
 * [Rcloner](https://github.com/vifreefly/rcloner) ⭐ 9 | 🐛 0 | 🌐 Ruby | 📅 2021-02-24 - Ruby gem wrapping Duplicity and rclone for easy app backups with encryption. ![GitHub stars](https://img.shields.io/github/stars/vifreefly/rcloner)
 * [HashBackup](http://www.hashbackup.com/) - Efficient multi-threaded command-line backup for Linux/Unix. Can invoke rclone as transport for unsupported storage systems. **`Commercial`**
@@ -158,9 +158,9 @@
 
 ## Forks and Alternate Builds
 
-* [gclone (donwa)](https://github.com/donwa/gclone) ⭐ 774 | 🐛 46 | 🌐 Go | 📅 2021-04-05 - Original gclone mod optimized for Google Drive SA usage. Based on rclone v1.51. **`Inactive`** ![GitHub stars](https://img.shields.io/github/stars/donwa/gclone)
+* [gclone (donwa)](https://github.com/donwa/gclone) ⭐ 773 | 🐛 46 | 🌐 Go | 📅 2021-04-05 - Original gclone mod optimized for Google Drive SA usage. Based on rclone v1.51. **`Inactive`** ![GitHub stars](https://img.shields.io/github/stars/donwa/gclone)
 * [Rclone\_RD](https://github.com/itsToggle/rclone_RD) ⚠️ Archived - Fork integrating Real-Debrid API as a backend. Mount and stream cached torrents from Real-Debrid. ![GitHub stars](https://img.shields.io/github/stars/itsToggle/rclone_RD)
-* [gclone (dogbutcat)](https://github.com/dogbutcat/gclone) ⭐ 197 | 🐛 2 | 🌐 Go | 📅 2026-10-02 - Actively maintained fork with Google Drive Service Account rotation to bypass API quotas. ![GitHub stars](https://img.shields.io/github/stars/dogbutcat/gclone)
+* [gclone (dogbutcat)](https://github.com/dogbutcat/gclone) ⭐ 197 | 🐛 2 | 🌐 Go | 📅 2026-10-03 - Actively maintained fork with Google Drive Service Account rotation to bypass API quotas. ![GitHub stars](https://img.shields.io/github/stars/dogbutcat/gclone)
 * [gclone (l3v11)](https://github.com/l3v11/gclone) ⚠️ Archived - Another gclone fork with auto SA rotation. **`Archived`** ![GitHub stars](https://img.shields.io/github/stars/l3v11/gclone)
 * [Fclone](https://github.com/NyaMisty/fclone) ⭐ 75 | 🐛 12 | 🌐 Go | 📅 2023-09-12 - Continuously updated fork providing pre-built binaries and speedy updates. ![GitHub stars](https://img.shields.io/github/stars/NyaMisty/fclone)
 
@@ -188,4 +188,4 @@ Please read the [contribution guidelines](contributing.md) before submitting a p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
