@@ -87,7 +87,7 @@
                 "open_issues": 17,
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1153,
+                "stars": 1154,
                 "topics": [
                   "angular",
                   "angular-material",
@@ -118,7 +118,7 @@
                 "id": 999182683,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2025-12-22T05:35:07Z",
+                "last_commit": "2026-10-06T13:32:41Z",
                 "open_issues": 13,
                 "owner": "liriliri",
                 "repo": "rem",
@@ -316,7 +316,7 @@
                 "open_issues": 194,
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2382,
+                "stars": 2381,
                 "topics": [
                   "android",
                   "app",
@@ -677,7 +677,7 @@
                 "open_issues": 619,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 36437,
+                "stars": 36441,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -705,7 +705,7 @@
                 "open_issues": 896,
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 14267,
+                "stars": 14269,
                 "topics": [
                   "backup",
                   "cloud",
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:26:32.504Z",
+    "last_updated": "2026-10-06T15:29:51.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "The awesome list for everything rclone.",
