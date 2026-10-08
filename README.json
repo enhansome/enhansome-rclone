@@ -45,7 +45,7 @@
                 "open_issues": 12,
                 "owner": "rclone",
                 "repo": "rclone-ui",
-                "stars": 2302,
+                "stars": 2306,
                 "topics": [
                   "backblaze-b2",
                   "cyberduck",
@@ -87,7 +87,7 @@
                 "open_issues": 18,
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1156,
+                "stars": 1160,
                 "topics": [
                   "angular",
                   "angular-material",
@@ -118,8 +118,8 @@
                 "id": 999182683,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-07T13:18:16Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-08T09:22:20Z",
+                "open_issues": 12,
                 "owner": "liriliri",
                 "repo": "rem",
                 "stars": 638,
@@ -316,7 +316,7 @@
                 "open_issues": 195,
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2383,
+                "stars": 2387,
                 "topics": [
                   "android",
                   "app",
@@ -674,10 +674,10 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-01T01:44:09Z",
-                "open_issues": 620,
+                "open_issues": 621,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 36457,
+                "stars": 36471,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -702,10 +702,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T23:20:13Z",
-                "open_issues": 897,
+                "open_issues": 898,
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 14276,
+                "stars": 14284,
                 "topics": [
                   "backup",
                   "cloud",
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T15:50:51.101Z",
+    "last_updated": "2026-10-08T15:54:22.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "The awesome list for everything rclone.",
