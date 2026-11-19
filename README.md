@@ -9,6 +9,7 @@
   * [Desktop](#desktop)
   * [Web](#web)
   * [Mobile](#mobile)
+  * [Terminal](#terminal)
 * [Sync and Backup Tools](#sync-and-backup-tools)
   * [Two-Way Sync](#two-way-sync)
   * [Backup Utilities](#backup-utilities)
@@ -33,7 +34,7 @@
 
 ## Official Resources
 
-* [Rclone](https://github.com/rclone/rclone) ⭐ 61,087 | 🐛 1,338 | 🌐 Go | 📅 2026-11-18 - The core command-line tool for syncing files to 70+ cloud storage providers.
+* [Rclone](https://github.com/rclone/rclone) ⭐ 61,113 | 🐛 1,336 | 🌐 Go | 📅 2026-11-19 - The core command-line tool for syncing files to 70+ cloud storage providers.
 * [Docs](https://rclone.org) - The official **`rclone`** docs.
 * [Forum](https://forum.rclone.org) - The official **`rclone`** forum.
 
@@ -41,9 +42,9 @@
 
 ### Desktop
 
-* [Rclone UI](https://github.com/rclone-ui/rclone-ui) ⭐ 2,415 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-18 - Cross-platform desktop GUI built with Rust for managing remotes and tasks.
-* [Rclone Manager](https://github.com/Zarestia-Dev/rclone-manager) ⭐ 1,234 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-18 - Hobby cross-platform GUI built with Angular.
-* [REM](https://github.com/liriliri/rem) ⭐ 658 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-16 - Kawaii rclone client. Can be seen as an open source version of RcloneView.
+* [Rclone UI](https://github.com/rclone-ui/rclone-ui) ⭐ 2,421 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-19 - Cross-platform desktop GUI built with Rust for managing remotes and tasks.
+* [Rclone Manager](https://github.com/Zarestia-Dev/rclone-manager) ⭐ 1,235 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-19 - Hobby cross-platform GUI built with Angular.
+* [REM](https://github.com/liriliri/rem) ⭐ 660 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-16 - Kawaii rclone client. Can be seen as an open source version of RcloneView.
 * [Rclone Shuttle](https://github.com/pieterdd/RcloneShuttle) ⭐ 157 | 🐛 3 | 🌐 Rust | 📅 2026-06-27 - GTK4-based graphical uploader for rclone. Simple drag-and-drop file transfers written in Rust.
 * [Rclone Navigator](https://github.com/Communist02/RcloneNavigator) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-10-25 - Desktop GUI for managing files in cloud storage. Supports Linux and Windows with features for browsing, uploading, downloading, mounting, and serving remotes.
 * [RcloneView](https://rcloneview.com/) - Commercial GUI for Windows/macOS with folder comparison and multi-window remote control. Flutter based and developed in Korea.
@@ -57,8 +58,12 @@
 
 ### Mobile
 
-* [Round Sync](https://github.com/newhinton/Round-Sync) ⭐ 2,435 | 🐛 199 | 🌐 Java | 📅 2025-11-16 - Fork of RCX with Material 3 Design, task management, and enhanced features. Available on [F-Droid](https://f-droid.org/packages/de.felixnuesse.extract/) and [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.felixnuesse.extract). [Website](https://roundsync.com/)
-* [RCX (Rclone for Android)](https://github.com/x0b/rcx) ⭐ 2,073 | 🐛 144 | 🌐 Java | 📅 2023-11-26 - Full-featured Android file manager powered by rclone. Browse, upload, download, stream, and manage files on cloud remotes. Available on [F-Droid](https://f-droid.org/en/packages/io.github.x0b.rcx/) and Google Play.
+* [Round Sync](https://github.com/newhinton/Round-Sync) ⭐ 2,436 | 🐛 199 | 🌐 Java | 📅 2025-11-16 - Fork of RCX with Material 3 Design, task management, and enhanced features. Available on [F-Droid](https://f-droid.org/packages/de.felixnuesse.extract/) and [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.felixnuesse.extract). [Website](https://roundsync.com/)
+* [RCX (Rclone for Android)](https://github.com/x0b/rcx) ⭐ 2,072 | 🐛 144 | 🌐 Java | 📅 2023-11-26 - Full-featured Android file manager powered by rclone. Browse, upload, download, stream, and manage files on cloud remotes. Available on [F-Droid](https://f-droid.org/en/packages/io.github.x0b.rcx/) and Google Play.
+
+### Terminal
+
+* [ratclone](https://github.com/SyscallBrain/ratclone) ⭐ 26 | 🐛 0 | 🌐 Rust | 📅 2026-11-16 - Keyboard-driven terminal UI for rclone. Browses remotes and the local disk in one or two panes, copies and moves between them as rclone jobs that keep running after the app closes, and shows the rclone command behind each transfer.
 
 ## Sync and Backup Tools
 
@@ -78,8 +83,8 @@
 
 ### Backup Software with Rclone Support
 
-* [restic](https://github.com/restic/restic) ⭐ 37,296 | 🐛 646 | 🌐 Go | 📅 2026-11-17 - Secure deduplicating backup program. Can use rclone as backend to access many cloud storage services.
-* [Kopia](https://github.com/kopia/kopia) ⭐ 14,743 | 🐛 951 | 🌐 Go | 📅 2026-11-18 - Open-source backup tool for encrypted, deduplicated backups. Supports rclone as transport for additional cloud providers.
+* [restic](https://github.com/restic/restic) ⭐ 37,311 | 🐛 648 | 🌐 Go | 📅 2026-11-19 - Secure deduplicating backup program. Can use rclone as backend to access many cloud storage services.
+* [Kopia](https://github.com/kopia/kopia) ⭐ 14,750 | 🐛 943 | 🌐 Go | 📅 2026-11-19 - Open-source backup tool for encrypted, deduplicated backups. Supports rclone as transport for additional cloud providers.
 * [Rcloner](https://github.com/vifreefly/rcloner) ⭐ 9 | 🐛 0 | 🌐 Ruby | 📅 2021-02-24 - Ruby gem wrapping Duplicity and rclone for easy app backups with encryption.
 * [HashBackup](http://www.hashbackup.com/) - Efficient multi-threaded command-line backup for Linux/Unix. Can invoke rclone as transport for unsupported storage systems. **`Commercial`**
 
@@ -118,7 +123,7 @@
 
 ### Kubernetes
 
-* [CSI Driver (Veloxpack)](https://github.com/veloxpack/csi-driver-rclone) ⭐ 358 | 🐛 9 | 🌐 Go | 📅 2026-11-16 - Kubernetes CSI driver built on rclone Go library. Mounts 50+ cloud providers in pods with dynamic PV provisioning and secrets management.
+* [CSI Driver (Veloxpack)](https://github.com/veloxpack/csi-driver-rclone) ⭐ 358 | 🐛 8 | 🌐 Go | 📅 2026-11-19 - Kubernetes CSI driver built on rclone Go library. Mounts 50+ cloud providers in pods with dynamic PV provisioning and secrets management.
 * [CSI Driver (Wunderio)](https://github.com/wunderio/csi-rclone) ⭐ 266 | 🐛 27 | 🌐 Go | 📅 2026-11-10 - Kubernetes CSI storage driver using rclone mount.
 
 ### Home Automation
@@ -160,4 +165,4 @@ Contributions are welcome! Please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

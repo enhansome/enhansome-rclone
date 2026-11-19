@@ -17,11 +17,11 @@
                 "id": 920598633,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T12:30:23Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-19T15:15:22Z",
+                "open_issues": 10,
                 "owner": "rclone",
                 "repo": "rclone-ui",
-                "stars": 2415,
+                "stars": 2421,
                 "topics": [
                   "backblaze-b2",
                   "cyberduck",
@@ -59,11 +59,11 @@
                 "id": 973502326,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-18T15:39:47Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-19T16:35:56Z",
+                "open_issues": 10,
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1234,
+                "stars": 1235,
                 "topics": [
                   "angular",
                   "angular-material",
@@ -98,7 +98,7 @@
                 "open_issues": 10,
                 "owner": "liriliri",
                 "repo": "rem",
-                "stars": 658,
+                "stars": 660,
                 "topics": [
                   "electron",
                   "electron-app",
@@ -215,7 +215,7 @@
                 "open_issues": 199,
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2435,
+                "stars": 2436,
                 "topics": [
                   "android",
                   "app",
@@ -246,7 +246,7 @@
                 "open_issues": 144,
                 "owner": "x0b",
                 "repo": "rcx",
-                "stars": 2073,
+                "stars": 2072,
                 "topics": [
                   "android-app",
                   "android-application",
@@ -262,6 +262,42 @@
           "description": null,
           "node_type": "group",
           "title": "Mobile"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ratclone",
+              "description": "Keyboard-driven terminal UI for rclone. Browses remotes and the local disk in one or two panes, copies and moves between them as rclone jobs that keep running after the app closes, and shows the rclone command behind each transfer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A keyboard-driven terminal UI for rclone",
+                "homepage": "https://syscallbrain.github.io/ratclone/",
+                "id": 1458733088,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-11-16T00:59:08Z",
+                "open_issues": 0,
+                "owner": "SyscallBrain",
+                "repo": "ratclone",
+                "stars": 26,
+                "topics": [
+                  "cloud",
+                  "file-manager",
+                  "ratatui",
+                  "rclone",
+                  "rust",
+                  "terminal",
+                  "tui"
+                ]
+              },
+              "first_seen": "2026-11-19T17:46:06.920Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Terminal"
         }
       ],
       "title": "Clients & GUIs"
@@ -497,11 +533,11 @@
                 "id": 19205896,
                 "language": "Go",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-17T18:29:42Z",
-                "open_issues": 646,
+                "last_commit": "2026-11-19T15:17:17Z",
+                "open_issues": 648,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 37296,
+                "stars": 37311,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -525,11 +561,11 @@
                 "id": 48299818,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T00:47:19Z",
-                "open_issues": 951,
+                "last_commit": "2026-11-19T00:19:38Z",
+                "open_issues": 943,
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 14743,
+                "stars": 14750,
                 "topics": [
                   "backup",
                   "cloud",
@@ -809,8 +845,8 @@
                 "id": 1075392507,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T01:05:33Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-19T05:08:59Z",
+                "open_issues": 8,
                 "owner": "veloxpack",
                 "repo": "csi-driver-rclone",
                 "stars": 358,
@@ -1065,7 +1101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T17:38:16.978Z",
+    "last_updated": "2026-11-19T17:46:06.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "The awesome list for everything rclone.",
@@ -1073,18 +1109,18 @@
       "id": 1111422813,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-11T18:41:12Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-19T11:02:49Z",
+      "open_issues": 1,
       "owner": "awesome-rclone",
       "repo": "awesome-rclone",
-      "stars": 87,
+      "stars": 88,
       "topics": [
         "awesome",
         "awesome-list",
         "rclone"
       ]
     },
-    "original_repository_sha": "edd29835b1eb8e5975fc9bc76461be8d4ad77ca0",
+    "original_repository_sha": "2168914a63924f7849985160b24d8fe3edf52874",
     "enhanced_repository": "enhansome/enhansome-rclone",
     "enhanced_repository_description": null,
     "title": "Awesome Rclone with stars"
