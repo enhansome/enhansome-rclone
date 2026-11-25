@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "rclone",
                 "repo": "rclone-ui",
-                "stars": 2440,
+                "stars": 2447,
                 "topics": [
                   "backblaze-b2",
                   "cyberduck",
@@ -59,11 +59,11 @@
                 "id": 973502326,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-24T16:42:03Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-25T11:01:24Z",
+                "open_issues": 7,
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1248,
+                "stars": 1249,
                 "topics": [
                   "angular",
                   "angular-material",
@@ -246,7 +246,7 @@
                 "open_issues": 144,
                 "owner": "x0b",
                 "repo": "rcx",
-                "stars": 2073,
+                "stars": 2072,
                 "topics": [
                   "android-app",
                   "android-application",
@@ -534,10 +534,10 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-24T18:58:09Z",
-                "open_issues": 644,
+                "open_issues": 646,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 37429,
+                "stars": 37454,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -561,11 +561,11 @@
                 "id": 48299818,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T20:25:48Z",
+                "last_commit": "2026-11-25T05:03:52Z",
                 "open_issues": 947,
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 14810,
+                "stars": 14820,
                 "topics": [
                   "backup",
                   "cloud",
@@ -1101,7 +1101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T19:45:03.407Z",
+    "last_updated": "2026-11-25T18:52:09.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "The awesome list for everything rclone.",
