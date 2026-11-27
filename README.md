@@ -34,7 +34,7 @@
 
 ## Official Resources
 
-* [Rclone](https://github.com/rclone/rclone) ⭐ 61,297 | 🐛 1,371 | 🌐 Go | 📅 2026-11-26 - The core command-line tool for syncing files to 70+ cloud storage providers.
+* [Rclone](https://github.com/rclone/rclone) ⭐ 61,330 | 🐛 1,369 | 🌐 Go | 📅 2026-11-27 - The core command-line tool for syncing files to 70+ cloud storage providers.
 * [Docs](https://rclone.org) - The official **`rclone`** docs.
 * [Forum](https://forum.rclone.org) - The official **`rclone`** forum.
 
@@ -42,9 +42,9 @@
 
 ### Desktop
 
-* [Rclone UI](https://github.com/rclone-ui/rclone-ui) ⭐ 2,451 | 🐛 8 | 🌐 Go | 📅 2026-11-24 - Cross-platform desktop GUI built with Rust for managing remotes and tasks.
-* [Rclone Manager](https://github.com/Zarestia-Dev/rclone-manager) ⭐ 1,249 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-26 - Hobby cross-platform GUI built with Angular.
-* [REM](https://github.com/liriliri/rem) ⭐ 660 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-16 - Kawaii rclone client. Can be seen as an open source version of RcloneView.
+* [Rclone UI](https://github.com/rclone-ui/rclone-ui) ⭐ 2,456 | 🐛 9 | 🌐 Go | 📅 2026-11-26 - Cross-platform desktop GUI built with Rust for managing remotes and tasks.
+* [Rclone Manager](https://github.com/Zarestia-Dev/rclone-manager) ⭐ 1,252 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-27 - Hobby cross-platform GUI built with Angular.
+* [REM](https://github.com/liriliri/rem) ⭐ 661 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-16 - Kawaii rclone client. Can be seen as an open source version of RcloneView.
 * [Rclone Shuttle](https://github.com/pieterdd/RcloneShuttle) ⭐ 157 | 🐛 3 | 🌐 Rust | 📅 2026-06-27 - GTK4-based graphical uploader for rclone. Simple drag-and-drop file transfers written in Rust.
 * [Rclone Navigator](https://github.com/Communist02/RcloneNavigator) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-10-25 - Desktop GUI for managing files in cloud storage. Supports Linux and Windows with features for browsing, uploading, downloading, mounting, and serving remotes.
 * [RcloneView](https://rcloneview.com/) - Commercial GUI for Windows/macOS with folder comparison and multi-window remote control. Flutter based and developed in Korea.
@@ -58,12 +58,12 @@
 
 ### Mobile
 
-* [Round Sync](https://github.com/newhinton/Round-Sync) ⭐ 2,449 | 🐛 202 | 🌐 Java | 📅 2025-11-16 - Fork of RCX with Material 3 Design, task management, and enhanced features. Available on [F-Droid](https://f-droid.org/packages/de.felixnuesse.extract/) and [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.felixnuesse.extract). [Website](https://roundsync.com/)
+* [Round Sync](https://github.com/newhinton/Round-Sync) ⭐ 2,453 | 🐛 202 | 🌐 Java | 📅 2025-11-16 - Fork of RCX with Material 3 Design, task management, and enhanced features. Available on [F-Droid](https://f-droid.org/packages/de.felixnuesse.extract/) and [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.felixnuesse.extract). [Website](https://roundsync.com/)
 * [RCX (Rclone for Android)](https://github.com/x0b/rcx) ⭐ 2,072 | 🐛 145 | 🌐 Java | 📅 2023-11-26 - Full-featured Android file manager powered by rclone. Browse, upload, download, stream, and manage files on cloud remotes. Available on [F-Droid](https://f-droid.org/en/packages/io.github.x0b.rcx/) and Google Play.
 
 ### Terminal
 
-* [ratclone](https://github.com/SyscallBrain/ratclone) ⭐ 35 | 🐛 1 | 🌐 Rust | 📅 2026-11-23 - Keyboard-driven terminal UI for rclone. Browses remotes and the local disk in one or two panes, copies and moves between them as rclone jobs that keep running after the app closes, and shows the rclone command behind each transfer.
+* [ratclone](https://github.com/SyscallBrain/ratclone) ⭐ 38 | 🐛 1 | 🌐 Rust | 📅 2026-11-23 - Keyboard-driven terminal UI for rclone. Browses remotes and the local disk in one or two panes, copies and moves between them as rclone jobs that keep running after the app closes, and shows the rclone command behind each transfer.
 
 ## Sync and Backup Tools
 
@@ -75,16 +75,16 @@
 
 ### Backup Utilities
 
-* [rclone\_jobber](https://github.com/wolfv6/rclone_jobber) ⭐ 272 | 🐛 7 | 🌐 Shell | 📅 2020-08-24 - Bash script for backup rotation with logging, archival of old files, retries, and desktop notifications on errors.
+* [rclone\_jobber](https://github.com/wolfv6/rclone_jobber) ⭐ 273 | 🐛 7 | 🌐 Shell | 📅 2020-08-24 - Bash script for backup rotation with logging, archival of old files, retries, and desktop notifications on errors.
 * [PyClone](https://github.com/PyCloneOrg/PyClone) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-07-08 - Python automation engine for rclone backup scenarios. Define backup strategy in config file with Telegram notifications.
 * [Rclone BiSync Manager](https://github.com/Gunther-Schulz/rclone-bisync-manager) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2026-11-04 - GUI + daemon for continuous two-way sync using rclone's bisync. Provides system tray monitor with real-time status.
 * [dfb (Dated File Backup)](https://github.com/Jwink3101/dfb) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-10-29 - Wrapper implementing reverse-incremental backups with rclone. Preserves older versions by appending dates to filenames.
-* [RCloneBackup](https://github.com/polar147/RCloneBackup) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-08-15 - Cross-platform script for reverse incremental backups with Windows VSS support and email reports.
+* [RCloneBackup](https://github.com/polar147/RCloneBackup) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-08-15 - Cross-platform script for reverse incremental backups with Windows VSS support and email reports.
 
 ### Backup Software with Rclone Support
 
-* [restic](https://github.com/restic/restic) ⭐ 37,482 | 🐛 647 | 🌐 Go | 📅 2026-11-24 - Secure deduplicating backup program. Can use rclone as backend to access many cloud storage services.
-* [Kopia](https://github.com/kopia/kopia) ⭐ 14,831 | 🐛 950 | 🌐 Go | 📅 2026-11-25 - Open-source backup tool for encrypted, deduplicated backups. Supports rclone as transport for additional cloud providers.
+* [restic](https://github.com/restic/restic) ⭐ 37,508 | 🐛 648 | 🌐 Go | 📅 2026-11-24 - Secure deduplicating backup program. Can use rclone as backend to access many cloud storage services.
+* [Kopia](https://github.com/kopia/kopia) ⭐ 14,842 | 🐛 951 | 🌐 Go | 📅 2026-11-25 - Open-source backup tool for encrypted, deduplicated backups. Supports rclone as transport for additional cloud providers.
 * [Rcloner](https://github.com/vifreefly/rcloner) ⭐ 9 | 🐛 0 | 🌐 Ruby | 📅 2021-02-24 - Ruby gem wrapping Duplicity and rclone for easy app backups with encryption.
 * [HashBackup](http://www.hashbackup.com/) - Efficient multi-threaded command-line backup for Linux/Unix. Can invoke rclone as transport for unsupported storage systems. **`Commercial`**
 
@@ -123,7 +123,7 @@
 
 ### Kubernetes
 
-* [CSI Driver (Veloxpack)](https://github.com/veloxpack/csi-driver-rclone) ⭐ 359 | 🐛 8 | 🌐 Go | 📅 2026-11-19 - Kubernetes CSI driver built on rclone Go library. Mounts 50+ cloud providers in pods with dynamic PV provisioning and secrets management.
+* [CSI Driver (Veloxpack)](https://github.com/veloxpack/csi-driver-rclone) ⭐ 360 | 🐛 8 | 🌐 Go | 📅 2026-11-19 - Kubernetes CSI driver built on rclone Go library. Mounts 50+ cloud providers in pods with dynamic PV provisioning and secrets management.
 * [CSI Driver (Wunderio)](https://github.com/wunderio/csi-rclone) ⭐ 268 | 🐛 27 | 🌐 Go | 📅 2026-11-10 - Kubernetes CSI storage driver using rclone mount.
 
 ### Home Automation
@@ -165,4 +165,4 @@ Contributions are welcome! Please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

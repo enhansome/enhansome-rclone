@@ -17,11 +17,11 @@
                 "id": 920598633,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T00:45:01Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-26T22:00:11Z",
+                "open_issues": 9,
                 "owner": "rclone",
                 "repo": "rclone-ui",
-                "stars": 2451,
+                "stars": 2456,
                 "topics": [
                   "backblaze-b2",
                   "cyberduck",
@@ -59,11 +59,11 @@
                 "id": 973502326,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-26T18:38:59Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-27T17:04:20Z",
+                "open_issues": 10,
                 "owner": "Zarestia-Dev",
                 "repo": "rclone-manager",
-                "stars": 1249,
+                "stars": 1252,
                 "topics": [
                   "angular",
                   "angular-material",
@@ -98,7 +98,7 @@
                 "open_issues": 11,
                 "owner": "liriliri",
                 "repo": "rem",
-                "stars": 660,
+                "stars": 661,
                 "topics": [
                   "electron",
                   "electron-app",
@@ -215,7 +215,7 @@
                 "open_issues": 202,
                 "owner": "newhinton",
                 "repo": "Round-Sync",
-                "stars": 2449,
+                "stars": 2453,
                 "topics": [
                   "android",
                   "app",
@@ -281,7 +281,7 @@
                 "open_issues": 1,
                 "owner": "SyscallBrain",
                 "repo": "ratclone",
-                "stars": 35,
+                "stars": 38,
                 "topics": [
                   "cloud",
                   "file-manager",
@@ -402,7 +402,7 @@
                 "open_issues": 7,
                 "owner": "wolfv6",
                 "repo": "rclone_jobber",
-                "stars": 272,
+                "stars": 273,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:26:49.102Z"
@@ -494,7 +494,7 @@
                 "open_issues": 0,
                 "owner": "polar147",
                 "repo": "RCloneBackup",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "backup",
                   "cloud",
@@ -534,10 +534,10 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-24T18:58:09Z",
-                "open_issues": 647,
+                "open_issues": 648,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 37482,
+                "stars": 37508,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -562,10 +562,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-25T05:03:52Z",
-                "open_issues": 950,
+                "open_issues": 951,
                 "owner": "kopia",
                 "repo": "kopia",
-                "stars": 14831,
+                "stars": 14842,
                 "topics": [
                   "backup",
                   "cloud",
@@ -849,7 +849,7 @@
                 "open_issues": 8,
                 "owner": "veloxpack",
                 "repo": "csi-driver-rclone",
-                "stars": 359,
+                "stars": 360,
                 "topics": [
                   "csi",
                   "dropbox",
@@ -1101,7 +1101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:40:58.336Z",
+    "last_updated": "2026-11-27T18:31:26.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "The awesome list for everything rclone.",
